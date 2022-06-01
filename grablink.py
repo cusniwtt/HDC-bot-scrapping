@@ -16,5 +16,6 @@ def grab_all_link(url, filename):
     f.close()
     return print("Done")
 
+url = 'https://facebook.com'
 url = 'https://hdcservice.moph.go.th/hdc/main/index.php'
 grab_all_link(url, 'All_link.txt')

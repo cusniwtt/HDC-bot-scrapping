@@ -7,6 +7,7 @@ import requests
 
 from grablink import grab_all_link
 
+#url = 'https://google.com'
 url = 'https://hdcservice.moph.go.th/hdc/main/index.php'
 driver = wd.Edge(r'edgedriver_win64\msedgedriver.exe')
 driver.get(url)
