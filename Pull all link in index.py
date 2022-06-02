@@ -1,4 +1,5 @@
 from unicodedata import name
+from numpy import full, full_like
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
@@ -29,8 +30,10 @@ for i in range(len(names)): #Cut all names and append in names_cut list
 urls = []
 
 for link in soup.find_all('a'): #Find all links and append in urls list
-    full_url = 'https://hdcservice.moph.go.th/hdc/' + link.get('href')
-    urls.append(link.get('href'))
+    full_url = str(link.get('href'))
+    if str(full_url)[:2] == '..':
+        full_url = 'https://hdcservice.moph.go.th/hdc/' + full_url[3:]
+    urls.append(full_url)
 
 df_names = pd.DataFrame(names_cut, columns=['name'])    #Create dataframe for names
 df_urls = pd.DataFrame(urls, columns=['url'])           #Create dataframe for urls

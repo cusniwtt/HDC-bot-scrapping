@@ -11,59 +11,59 @@ name|url
 <span class=""caret""></span>
 "|#
 ข้อมูลทั่วไป|#
-ประชากร|../reports/page.php?cat_id=ac4eed1bddb23d6130746d62d2538fd0
-ความครอบคลุมการมีหลักประกันสุขภาพโดยรัฐ|../reports/page.php?cat_id=2dd52135c6fe0be88dc455a59202bcd5
-บุคลากรสาธารณสุข|../reports/page.php?cat_id=c11dad88f80061c70cd1ae96b500d017
-จำนวนหน่วยงานสาธารณสุข|../reports/page.php?cat_id=b415510618e13273b2f2918587f86e5d
-ข้อมูลพื้นฐานและสรุปผู้รับบริการ|../reports/page.php?cat_id=b91a30012c36ef54910261d9cfc6d7f5
-โรงเรียนและนักเรียน|../reports/page.php?cat_id=dc6012062b7e25f464da5f82f756e4ce
+ประชากร|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=ac4eed1bddb23d6130746d62d2538fd0
+ความครอบคลุมการมีหลักประกันสุขภาพโดยรัฐ|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=2dd52135c6fe0be88dc455a59202bcd5
+บุคลากรสาธารณสุข|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=c11dad88f80061c70cd1ae96b500d017
+จำนวนหน่วยงานสาธารณสุข|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=b415510618e13273b2f2918587f86e5d
+ข้อมูลพื้นฐานและสรุปผู้รับบริการ|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=b91a30012c36ef54910261d9cfc6d7f5
+โรงเรียนและนักเรียน|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=dc6012062b7e25f464da5f82f756e4ce
 สถานะสุขภาพ|#
-การป่วยด้วยโรคติดต่อที่สำคัญ|../reports/page.php?cat_id=7f9ab56b0f39fd053143ecc4f05354fc
-การป่วยด้วยโรคไม่ติดต่อที่สำคัญ|../reports/page.php?cat_id=6a1fdf282fd28180eed7d1cfe0155e11
-สาเหตุการป่วย/ตาย |../reports/page.php?cat_id=491672679818600345dc1833920051b2
-งานวัณโรค|../reports/page.php?cat_id=7a18700f863ca0f12e569688b0763db4
-โรคจากการประกอบอาชีพและสิ่งแวดล้อม|../reports/page.php?cat_id=f16421e617aed29602f9f09d951cce68
-กลุ่มพระภิกษุ-สามเณร|../reports/page.php?cat_id=6628306e55f95da4e791f1ddce220e9e
-การป่วยด้วยโรคจากมลพิษทางอากาศ|../reports/page.php?cat_id=9c647c1f31ac73f4396c2cf987e7448a
+การป่วยด้วยโรคติดต่อที่สำคัญ|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=7f9ab56b0f39fd053143ecc4f05354fc
+การป่วยด้วยโรคไม่ติดต่อที่สำคัญ|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=6a1fdf282fd28180eed7d1cfe0155e11
+สาเหตุการป่วย/ตาย |https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=491672679818600345dc1833920051b2
+งานวัณโรค|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=7a18700f863ca0f12e569688b0763db4
+โรคจากการประกอบอาชีพและสิ่งแวดล้อม|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=f16421e617aed29602f9f09d951cce68
+กลุ่มพระภิกษุ-สามเณร|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=6628306e55f95da4e791f1ddce220e9e
+การป่วยด้วยโรคจากมลพิษทางอากาศ|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=9c647c1f31ac73f4396c2cf987e7448a
 การเข้าถึงบริการ|#
-การใช้บริการสาธารณสุข|../reports/page.php?cat_id=9d8c311d6336373d40437c4423508cad
-การเข้าถึงระบบบริการสุขภาพจิต|../reports/page.php?cat_id=ea11bc4bbf333b78e6f53a26f7ab6c89
-แพทย์แผนไทย|../reports/page.php?cat_id=30bc6364fc06a33a7802e16bc596ac3b
-แพทย์แผนจีน|../reports/page.php?cat_id=e67da2428ef09faaa68d7e92d1becb51
-ทันตกรรม(บริการ)|../reports/page.php?cat_id=fc73b811eb6d9206e7e5baf8ad20d7b9
-CMI|../reports/page.php?cat_id=833e9779725ef96bc06926d8ba4e4c04
-เภสัชกรรม|../reports/page.php?cat_id=05d5bbe615038819d80d798413f13c93
-ต่างด้าว|../reports/page.php?cat_id=f05dcee246d3d761e4637d611d773cb6
-โรคจากการประกอบอาชีพและสิ่งแวดล้อมแรงงานต่างด้าว|../reports/page.php?cat_id=6e6b8a42012f37ae32459cd806d9aed7
-โรคมาลาเรีย|../reports/page.php?cat_id=e116ddc585454af132e4607294d57f6a
-การบำบัดรักษาและฟื้นฟูผู้ติดยาเสพติด จากระบบ(บสต.)|../reports/page.php?cat_id=0eb953d9735a9625ac19acfa5ebcd368
+การใช้บริการสาธารณสุข|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=9d8c311d6336373d40437c4423508cad
+การเข้าถึงระบบบริการสุขภาพจิต|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=ea11bc4bbf333b78e6f53a26f7ab6c89
+แพทย์แผนไทย|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=30bc6364fc06a33a7802e16bc596ac3b
+แพทย์แผนจีน|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=e67da2428ef09faaa68d7e92d1becb51
+ทันตกรรม(บริการ)|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=fc73b811eb6d9206e7e5baf8ad20d7b9
+CMI|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=833e9779725ef96bc06926d8ba4e4c04
+เภสัชกรรม|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=05d5bbe615038819d80d798413f13c93
+ต่างด้าว|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=f05dcee246d3d761e4637d611d773cb6
+โรคจากการประกอบอาชีพและสิ่งแวดล้อมแรงงานต่างด้าว|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=6e6b8a42012f37ae32459cd806d9aed7
+โรคมาลาเรีย|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=e116ddc585454af132e4607294d57f6a
+การบำบัดรักษาและฟื้นฟูผู้ติดยาเสพติด จากระบบ(บสต.)|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=0eb953d9735a9625ac19acfa5ebcd368
 ส่งเสริมป้องกัน|#
-อนามัยแม่และเด็ก|../reports/page.php?cat_id=1ed90bc32310b503b7ca9b32af425ae5
-อนามัยโรงเรียน|../reports/page.php?cat_id=67f8b1657bc8c796274fb9b6ad5a701d
-การสร้างเสริมภูมิคุ้มกันโรค|../reports/page.php?cat_id=4df360514655f79f13901ef1181ca1c7
-การคัดกรอง|../reports/page.php?cat_id=6966b0664b89805a484d7ac96c6edc48
-การเฝ้าระวัง|../reports/page.php?cat_id=cf7d9da207c0f9a7ee6c4fe3f09f67dd
-งานโภชนาการ|../reports/page.php?cat_id=46522b5bd1e06d24a5bd81917257a93c
-การเฝ้าระวังด้านส่งเสริมสุขภาพและอนามัยสิ่งแวดล้อม|../reports/page.php?cat_id=bebf866fceaef84c4078965eaf619565
-ส่งเสริมและป้องกันปัญหาสุขภาพจิต|../reports/page.php?cat_id=574437c29aff8d1709da55677abc4b03
+อนามัยแม่และเด็ก|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=1ed90bc32310b503b7ca9b32af425ae5
+อนามัยโรงเรียน|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=67f8b1657bc8c796274fb9b6ad5a701d
+การสร้างเสริมภูมิคุ้มกันโรค|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=4df360514655f79f13901ef1181ca1c7
+การคัดกรอง|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=6966b0664b89805a484d7ac96c6edc48
+การเฝ้าระวัง|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=cf7d9da207c0f9a7ee6c4fe3f09f67dd
+งานโภชนาการ|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=46522b5bd1e06d24a5bd81917257a93c
+การเฝ้าระวังด้านส่งเสริมสุขภาพและอนามัยสิ่งแวดล้อม|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=bebf866fceaef84c4078965eaf619565
+ส่งเสริมและป้องกันปัญหาสุขภาพจิต|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=574437c29aff8d1709da55677abc4b03
 ข้อมูลตอบสนอง Service Plan|#
-ข้อมูลเพื่อตอบสนอง Service Plan สาขาโรคหัวใจ และหลอดเลือด|../reports/page.php?cat_id=39fd60c25235db479930db85a0e97dd3
-ข้อมูลเพื่อตอบสนอง Service Plan สาขามะเร็ง|../reports/page.php?cat_id=59acae7a68f02c8e2c0cb88dfc6df3b3
-ข้อมูลเพื่อตอบสนอง Service Plan สาขาทารกแรกเกิด|../reports/page.php?cat_id=58b45d24cc1ba2a288d0f9bb1f7d3f71
-ข้อมูลเพื่อตอบสนอง Service Plan สาขาสุขภาพจิตและจิตเวช|../reports/page.php?cat_id=22710ed5db1ed6b12aab540a7b0753b3
-ข้อมูลเพื่อตอบสนอง Service Plan สาขาสุขภาพช่องปาก|../reports/page.php?cat_id=db30e434e30565c12fbac44958e338d5
-ข้อมูลเพื่อตอบสนอง Service Plan สาขาตา|../reports/page.php?cat_id=3f32171e7f7b8dc7f36949985cdf3d30
-ข้อมูลเพื่อตอบสนอง Service Plan สาขาไต|../reports/page.php?cat_id=e71a73a77b1474e63b71bccf727009ce
-ข้อมูลเพื่อตอบสนอง Service Plan สาขาโรคไม่ติดต่อ (NCD DM,HT,CVD)|../reports/page.php?cat_id=b2b59e64c4e6c92d4b1ec16a599d882b
-ข้อมูลเพื่อตอบสนอง Service Plan สาขาโรคปอดอุดกั้นเรื้อรัง(COPD)|../reports/page.php?cat_id=67473ea582306d345ce1bb44b06ba2e9
-ข้อมูลเพื่อตอบสนอง Service Plan สาขา RDU|../reports/page.php?cat_id=03b912ab9ccb4c07280a89bf05e5900e
-ข้อมูลเพื่อตอบสนอง Service Plan สาขา Intermediate &amp; Palliative Care|../reports/page.php?cat_id=b08560518ca0ebcaf2016dab69fb38b5
-ข้อมูลเพื่อตอบสนอง Service Plan สาขายาเสพติด|../reports/page.php?cat_id=06b9ffbd9fa83f29fef3a7e7ba8119d6
-ข้อมูลเพื่อตอบสนอง Service Plan สาขาอายุรกรรม|../reports/page.php?cat_id=144fdf97a756b3f82dce197287e06316
-ข้อมูลเพื่อตอบสนอง Service Plan สาขาแม่และเด็ก|../reports/page.php?cat_id=3dc2d92087cdc5b585eb8c0904691399
-ข้อมูลเพื่อตอบสนอง Service Plan สาขาออร์โธปิดิกส์|../reports/page.php?cat_id=6ab575a8e5fc6df2a182936531fe99e6
-ข้อมูลเพื่อตอบสนอง Service Plan 4 สาขาหลัก|../reports/page.php?cat_id=4b7d1f9bc16e8fdae6d1cf6d92922cbe
-ข้อมูลเพื่อตอบสนอง Service Plan สาขากัญชา|../reports/page.php?cat_id=2908c586a168578a2c4aee3ab13963c9
+ข้อมูลเพื่อตอบสนอง Service Plan สาขาโรคหัวใจ และหลอดเลือด|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=39fd60c25235db479930db85a0e97dd3
+ข้อมูลเพื่อตอบสนอง Service Plan สาขามะเร็ง|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=59acae7a68f02c8e2c0cb88dfc6df3b3
+ข้อมูลเพื่อตอบสนอง Service Plan สาขาทารกแรกเกิด|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=58b45d24cc1ba2a288d0f9bb1f7d3f71
+ข้อมูลเพื่อตอบสนอง Service Plan สาขาสุขภาพจิตและจิตเวช|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=22710ed5db1ed6b12aab540a7b0753b3
+ข้อมูลเพื่อตอบสนอง Service Plan สาขาสุขภาพช่องปาก|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=db30e434e30565c12fbac44958e338d5
+ข้อมูลเพื่อตอบสนอง Service Plan สาขาตา|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=3f32171e7f7b8dc7f36949985cdf3d30
+ข้อมูลเพื่อตอบสนอง Service Plan สาขาไต|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=e71a73a77b1474e63b71bccf727009ce
+ข้อมูลเพื่อตอบสนอง Service Plan สาขาโรคไม่ติดต่อ (NCD DM,HT,CVD)|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=b2b59e64c4e6c92d4b1ec16a599d882b
+ข้อมูลเพื่อตอบสนอง Service Plan สาขาโรคปอดอุดกั้นเรื้อรัง(COPD)|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=67473ea582306d345ce1bb44b06ba2e9
+ข้อมูลเพื่อตอบสนอง Service Plan สาขา RDU|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=03b912ab9ccb4c07280a89bf05e5900e
+ข้อมูลเพื่อตอบสนอง Service Plan สาขา Intermediate &amp; Palliative Care|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=b08560518ca0ebcaf2016dab69fb38b5
+ข้อมูลเพื่อตอบสนอง Service Plan สาขายาเสพติด|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=06b9ffbd9fa83f29fef3a7e7ba8119d6
+ข้อมูลเพื่อตอบสนอง Service Plan สาขาอายุรกรรม|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=144fdf97a756b3f82dce197287e06316
+ข้อมูลเพื่อตอบสนอง Service Plan สาขาแม่และเด็ก|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=3dc2d92087cdc5b585eb8c0904691399
+ข้อมูลเพื่อตอบสนอง Service Plan สาขาออร์โธปิดิกส์|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=6ab575a8e5fc6df2a182936531fe99e6
+ข้อมูลเพื่อตอบสนอง Service Plan 4 สาขาหลัก|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=4b7d1f9bc16e8fdae6d1cf6d92922cbe
+ข้อมูลเพื่อตอบสนอง Service Plan สาขากัญชา|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=2908c586a168578a2c4aee3ab13963c9
 "
 <span>ตัวชี้วัด</span>
 <span class=""caret""></span>
@@ -140,4 +140,4 @@ HDC HIE|#hie
 Dashboard|#dashboard
 What NEW!|#whatnew
 Q&amp;A|#qanda
-H4U Consent|../admin/consent_person.php
+H4U Consent|https://hdcservice.moph.go.th/hdc/admin/consent_person.php
