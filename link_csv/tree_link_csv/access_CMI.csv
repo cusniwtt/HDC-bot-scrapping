@@ -1,0 +1,8 @@
+name|url
+1. รายงานสรุป CMI|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=833e9779725ef96bc06926d8ba4e4c04&id=ce331927a984726e907d00396cacda4d
+2. รายงานสรุป CMI ตามกลุ่มวินิจฉัยโรคใหญ่ (MDC)|https://hdcservice.moph.go.th/hdc/reports/report.php?source=drg/summary_mdc.php&cat_id=833e9779725ef96bc06926d8ba4e4c04&id=a18e310aa1ceba87288c946572b6885f
+3. รายงานสรุป CMI ตามกลุ่มวินิจฉัยโรคร่วม (DRG)|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format2.php&cat_id=833e9779725ef96bc06926d8ba4e4c04&id=10a8c089ff1ff900442dab8477cf21ab
+4. รายงานสรุป CMI กรณีผู้ป่วยเสียชีวิต|https://hdcservice.moph.go.th/hdc/reports/report.php?source=drg/summary_dead.php&cat_id=833e9779725ef96bc06926d8ba4e4c04&id=fc5da685b7544a1e9bc3f76fabc388b8
+5. รายงานสรุป CMI กรณีผู้ป่วยเสียชีวิต แยกตาม MDC|https://hdcservice.moph.go.th/hdc/reports/report.php?source=drg/summary_dead_mdc.php&cat_id=833e9779725ef96bc06926d8ba4e4c04&id=345088f8536bf5cad8518590c7da9afb
+6. รายงานสรุป CMI กรณีผู้ป่วยเสียชีวิต แยกตาม DRG|https://hdcservice.moph.go.th/hdc/reports/report.php?source=drg/summary_dead_drg.php&cat_id=833e9779725ef96bc06926d8ba4e4c04&id=cdfd4d8373260641ae67b5bdaed2136f
+7. รายงานสรุป CMI จำแนกตามพื้นที่การรับ Refer|https://hdcservice.moph.go.th/hdc/reports/report.php?source=drg/summary_referin.php&cat_id=833e9779725ef96bc06926d8ba4e4c04&id=4cb064f94f66b3ab7d216c6ad3957991

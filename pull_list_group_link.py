@@ -41,24 +41,21 @@ def list_group_box(path, name, url):
     df_urls = pd.DataFrame(urls, columns=['url'])           #Create dataframe for urls
     df = pd.concat([df_names, df_urls], axis=1)             #Concat dataframe
 
-    #df.to_csv('tree_link_csv/{}_{}.csv'.format(path, name), sep='|', index=False)
-    #print('{}.csv created in tree_link_csv'.format(name))
-    print('{}_{}.csv'.format(path, name))
+    df.to_csv('link_csv/tree_link_csv/{}_{}.csv'.format(path, name), sep='|', index=False)
 
-    return print(df)
+    return print('{}.csv created in tree_link_csv'.format(name))
 
 #Get path of csv file
 csv_path = [f for f in listdir('link_csv') if isfile(join('link_csv', f))]
 del csv_path[1]
 print(csv_path)
 
-#list_group_box('case1', 'https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=9d8c311d6336373d40437c4423508cad')
-#list_group_box('case2', 'https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=1ed90bc32310b503b7ca9b32af425ae5')
-
+#For each csv file in csv_path
 for name in csv_path:
     df = pd.read_csv('link_csv/{}'.format(name), sep='|')
     round = df.shape[0]
 
+    #For each row in csv file
     for i in range(round):
         print('-----------------')
         list_group_box(name[:-4], df.iloc[i, 0], df.iloc[i, 1])

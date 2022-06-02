@@ -15,6 +15,7 @@ print('----------------------------------------------------')
 print(df_info)
 
 df_state = df.iloc[8:15]  #create dataframe for state
+df_state.iloc[2, 0] = 'สาเหตุการป่วยหรือตาย'
 print('----------------------------------------------------')
 print(df_state)
 
