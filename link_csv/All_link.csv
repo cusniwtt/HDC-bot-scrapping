@@ -1,14 +1,14 @@
 name|url
 "
-<i class=""fa fa-bars""></i>
+
 "|#
-"<img src=""../themes/img/logo-big1.png"" style=""height: 40px; margin-top: -12px;""/>"|#
+|#
 "
-<span>หน้าแรก</span>
-"|/hdc/index.php
+หน้าแรก
+"|https://hdcservice.moph.go.th/hdc/index.php
 "
-<span>กลุ่มรายงานมาตรฐาน</span>
-<span class=""caret""></span>
+กลุ่มรายงานมาตรฐาน
+
 "|#
 ข้อมูลทั่วไป|#
 ประชากร|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=ac4eed1bddb23d6130746d62d2538fd0
@@ -57,7 +57,7 @@ CMI|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=833e9779725ef96bc0
 ข้อมูลเพื่อตอบสนอง Service Plan สาขาโรคไม่ติดต่อ (NCD DM,HT,CVD)|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=b2b59e64c4e6c92d4b1ec16a599d882b
 ข้อมูลเพื่อตอบสนอง Service Plan สาขาโรคปอดอุดกั้นเรื้อรัง(COPD)|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=67473ea582306d345ce1bb44b06ba2e9
 ข้อมูลเพื่อตอบสนอง Service Plan สาขา RDU|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=03b912ab9ccb4c07280a89bf05e5900e
-ข้อมูลเพื่อตอบสนอง Service Plan สาขา Intermediate &amp; Palliative Care|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=b08560518ca0ebcaf2016dab69fb38b5
+ข้อมูลเพื่อตอบสนอง Service Plan สาขา Intermediate & Palliative Care|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=b08560518ca0ebcaf2016dab69fb38b5
 ข้อมูลเพื่อตอบสนอง Service Plan สาขายาเสพติด|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=06b9ffbd9fa83f29fef3a7e7ba8119d6
 ข้อมูลเพื่อตอบสนอง Service Plan สาขาอายุรกรรม|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=144fdf97a756b3f82dce197287e06316
 ข้อมูลเพื่อตอบสนอง Service Plan สาขาแม่และเด็ก|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=3dc2d92087cdc5b585eb8c0904691399
@@ -65,73 +65,73 @@ CMI|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=833e9779725ef96bc0
 ข้อมูลเพื่อตอบสนอง Service Plan 4 สาขาหลัก|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=4b7d1f9bc16e8fdae6d1cf6d92922cbe
 ข้อมูลเพื่อตอบสนอง Service Plan สาขากัญชา|https://hdcservice.moph.go.th/hdc/reports/page.php?cat_id=2908c586a168578a2c4aee3ab13963c9
 "
-<span>ตัวชี้วัด</span>
-<span class=""caret""></span>
+ตัวชี้วัด
+
 "|#
 กระทรวง|#
- ปี 2565|/hdc/reports/page_kpi.php?flag_kpi_level=1&flag_kpi_year=2022
- ปี 2564|/hdc/reports/page_kpi.php?flag_kpi_level=1&flag_kpi_year=2021
- ปี 2563|/hdc/reports/page_kpi.php?flag_kpi_level=1&flag_kpi_year=2020
- ปี 2562|/hdc/reports/page_kpi.php?flag_kpi_level=1&flag_kpi_year=2019
- ปี 2561|/hdc/reports/page_kpi.php?flag_kpi_level=1&flag_kpi_year=2018
- ปี 2560|/hdc/reports/page_kpi.php?flag_kpi_level=1&flag_kpi_year=2017
- ปี 2559|/hdc/reports/page_kpi.php?flag_kpi_level=1&flag_kpi_year=2016
- ปี 2558|/hdc/reports/page_kpi.php?flag_kpi_level=1&flag_kpi_year=2015
+ ปี 2565|https://hdcservice.moph.go.th/hdc/reports/page_kpi.php?flag_kpi_level=1&flag_kpi_year=2022
+ ปี 2564|https://hdcservice.moph.go.th/hdc/reports/page_kpi.php?flag_kpi_level=1&flag_kpi_year=2021
+ ปี 2563|https://hdcservice.moph.go.th/hdc/reports/page_kpi.php?flag_kpi_level=1&flag_kpi_year=2020
+ ปี 2562|https://hdcservice.moph.go.th/hdc/reports/page_kpi.php?flag_kpi_level=1&flag_kpi_year=2019
+ ปี 2561|https://hdcservice.moph.go.th/hdc/reports/page_kpi.php?flag_kpi_level=1&flag_kpi_year=2018
+ ปี 2560|https://hdcservice.moph.go.th/hdc/reports/page_kpi.php?flag_kpi_level=1&flag_kpi_year=2017
+ ปี 2559|https://hdcservice.moph.go.th/hdc/reports/page_kpi.php?flag_kpi_level=1&flag_kpi_year=2016
+ ปี 2558|https://hdcservice.moph.go.th/hdc/reports/page_kpi.php?flag_kpi_level=1&flag_kpi_year=2015
 NCD ClinicPlus|#
- ปี 2565|/hdc/reports/page_kpi.php?flag_kpi_level=9&flag_kpi_year=2022
- ปี 2564|/hdc/reports/page_kpi.php?flag_kpi_level=9&flag_kpi_year=2021
- ปี 2563|/hdc/reports/page_kpi.php?flag_kpi_level=9&flag_kpi_year=2020
- ปี 2562|/hdc/reports/page_kpi.php?flag_kpi_level=9&flag_kpi_year=2019
- ปี 2561|/hdc/reports/page_kpi.php?flag_kpi_level=9&flag_kpi_year=2018
+ ปี 2565|https://hdcservice.moph.go.th/hdc/reports/page_kpi.php?flag_kpi_level=9&flag_kpi_year=2022
+ ปี 2564|https://hdcservice.moph.go.th/hdc/reports/page_kpi.php?flag_kpi_level=9&flag_kpi_year=2021
+ ปี 2563|https://hdcservice.moph.go.th/hdc/reports/page_kpi.php?flag_kpi_level=9&flag_kpi_year=2020
+ ปี 2562|https://hdcservice.moph.go.th/hdc/reports/page_kpi.php?flag_kpi_level=9&flag_kpi_year=2019
+ ปี 2561|https://hdcservice.moph.go.th/hdc/reports/page_kpi.php?flag_kpi_level=9&flag_kpi_year=2018
 "
-<span>ตรวจสอบการส่งข้อมูล</span>
-<span class=""caret""></span>
+ตรวจสอบการส่งข้อมูล
+
 "|#
-รายงานติดตามการส่งข้อมูลของผู้บริหาร(Freeze)|/hdc/reports/s_report_service.php?source=monitor/monitor_moph_send.php
-การส่งข้อมูลทันเวลาจำแนกตามเดือน|/hdc/admin/transfer_stat.php
-ตรวจสอบการส่งข้อมูลแบบละเอียด|/hdc/admin/check_transfer_ws.php
+รายงานติดตามการส่งข้อมูลของผู้บริหาร(Freeze)|https://hdcservice.moph.go.th/hdc/reports/s_report_service.php?source=monitor/monitor_moph_send.php
+การส่งข้อมูลทันเวลาจำแนกตามเดือน|https://hdcservice.moph.go.th/hdc/admin/transfer_stat.php
+ตรวจสอบการส่งข้อมูลแบบละเอียด|https://hdcservice.moph.go.th/hdc/admin/check_transfer_ws.php
 การส่งข้อมูลตาม พ.ร.บ. 2558|#
-การยืนยันข้อมูลเพื่อการรายงานโรค|/hdc/reports/report_of.php?source=pformated/format1.php&cat_id=1ba40f71cfccbbe3f67ced06d1085062&id=75fdd3146568f38dc56b18a77978c7d6
-ข้อมูลกลุ่มประชากรหลัก(KP)|/hdc/reports/report_of.php?source=pformated/format1.php&cat_id=1ba40f71cfccbbe3f67ced06d1085062&id=0772a9a8a1baa1a21de6cb1f08de6fa1
+การยืนยันข้อมูลเพื่อการรายงานโรค|https://hdcservice.moph.go.th/hdc/reports/report_of.php?source=pformated/format1.php&cat_id=1ba40f71cfccbbe3f67ced06d1085062&id=75fdd3146568f38dc56b18a77978c7d6
+ข้อมูลกลุ่มประชากรหลัก(KP)|https://hdcservice.moph.go.th/hdc/reports/report_of.php?source=pformated/format1.php&cat_id=1ba40f71cfccbbe3f67ced06d1085062&id=0772a9a8a1baa1a21de6cb1f08de6fa1
 "ข้อมูลการตรวจทางห้องปฎิบัติการ
-                                    (LABFU-HIV)"|/hdc/reports/report_of.php?source=pformated/format1.php&cat_id=1ba40f71cfccbbe3f67ced06d1085062&id=6369f2c7298b2cd2de2f30111a86e9df
+                                    (LABFU-HIV)"|https://hdcservice.moph.go.th/hdc/reports/report_of.php?source=pformated/format1.php&cat_id=1ba40f71cfccbbe3f67ced06d1085062&id=6369f2c7298b2cd2de2f30111a86e9df
 "สรุปจำนวนข้อมูล
-                            43 แฟ้ม"|/hdc/admin/monitor43hdcservice.php
+                            43 แฟ้ม"|https://hdcservice.moph.go.th/hdc/admin/monitor43hdcservice.php
 "สรุปการส่ง
-                            43 แฟ้มจากแฟ้ม Service"|/hdc/reports/s_report_service.php?source=monitor/monitor_service_send.php
-คุุณภาพแฟ้มข้อมูลสำคัญด้านสุขภาพจิต|/hdc/reports/s_report_all.php?source=monitor/format1.php&id=01fc5dff8cfce19fde7547ebf0d4fe74&selMoph=1&selDep=21008
+                            43 แฟ้มจากแฟ้ม Service"|https://hdcservice.moph.go.th/hdc/reports/s_report_service.php?source=monitor/monitor_service_send.php
+คุุณภาพแฟ้มข้อมูลสำคัญด้านสุขภาพจิต|https://hdcservice.moph.go.th/hdc/reports/s_report_all.php?source=monitor/format1.php&id=01fc5dff8cfce19fde7547ebf0d4fe74&selMoph=1&selDep=21008
 "ข้อมูลผู้ป่วยนอก
-                            - ผู้ป่วยใน ของ รพศ. และ รพท. "|/hdc/admin/monitor43hosp.php
+                            - ผู้ป่วยใน ของ รพศ. และ รพท. "|https://hdcservice.moph.go.th/hdc/admin/monitor43hosp.php
 " ข้อมูลผู้ป่วยนอก
-                                    ของ รพศ. และ รพท."|/hdc/reports/h_report.php?id=06c37818472cadb8a40faa8732bde66a&tb_name=service
+                                    ของ รพศ. และ รพท."|https://hdcservice.moph.go.th/hdc/reports/h_report.php?id=06c37818472cadb8a40faa8732bde66a&tb_name=service
 " ข้อมูลผู้ป่วยใน
-                                    ของ รพศ. และ รพท."|/hdc/reports/h_report.php?id=06c37818472cadb8a40faa8732bde66a&tb_name=admission
+                                    ของ รพศ. และ รพท."|https://hdcservice.moph.go.th/hdc/reports/h_report.php?id=06c37818472cadb8a40faa8732bde66a&tb_name=admission
 ข้อมูลผู้ป่วยนอก - ผู้ป่วยใน ของ รพช. |#
 " ข้อมูลผู้ป่วยนอก
-                                    ของ รพช."|/hdc/reports/hc_report.php?id=06c37818472cadb8a40faa8732bde66a&tb_name=service
+                                    ของ รพช."|https://hdcservice.moph.go.th/hdc/reports/hc_report.php?id=06c37818472cadb8a40faa8732bde66a&tb_name=service
 " ข้อมูลผู้ป่วยใน
-                                    ของ รพช."|/hdc/reports/hc_report.php?id=06c37818472cadb8a40faa8732bde66a&tb_name=admission
+                                    ของ รพช."|https://hdcservice.moph.go.th/hdc/reports/hc_report.php?id=06c37818472cadb8a40faa8732bde66a&tb_name=admission
 "ข้อมูลผู้ป่วยนอก
-                            ของ รพ.สต. และ ศสม."|/hdc/reports/so_report.php?id=06c37818472cadb8a40faa8732bde66a&tb_name=service
-ตรวจสอบพิกัดของหน่วยบริการ|/hdc/admin/view_map_hosp.php
+                            ของ รพ.สต. และ ศสม."|https://hdcservice.moph.go.th/hdc/reports/so_report.php?id=06c37818472cadb8a40faa8732bde66a&tb_name=service
+ตรวจสอบพิกัดของหน่วยบริการ|https://hdcservice.moph.go.th/hdc/admin/view_map_hosp.php
 "CKD
-                            Registry"|/hdc/reports/ckd_registry.php
+                            Registry"|https://hdcservice.moph.go.th/hdc/reports/ckd_registry.php
 "DMHT
-                            Registry"|/hdc/reports/dmht_registry.php
+                            Registry"|https://hdcservice.moph.go.th/hdc/reports/dmht_registry.php
 "Depression
-                            Registry"|/hdc/reports/depress_registry.php
-EIS|/hdc/reports/page_eis.php
-ทีมงาน|/hdc/includes/about.php
+                            Registry"|https://hdcservice.moph.go.th/hdc/reports/depress_registry.php
+EIS|https://hdcservice.moph.go.th/hdc/reports/page_eis.php
+ทีมงาน|https://hdcservice.moph.go.th/hdc/includes/about.php
 "
-<span>ลงชื่อเข้าใช้งาน</span>
-"|/hdc/admin/login.php
+ลงชื่อเข้าใช้งาน
+"|https://hdcservice.moph.go.th/hdc/admin/login.php
 "
-                        สวัสดี Guest                        <span class=""glyphicon-user""></span>
+                        สวัสดี Guest                        
 "|#
-ลงชื่อเข้าใช้งาน|/hdc/admin/login.php
+ลงชื่อเข้าใช้งาน|https://hdcservice.moph.go.th/hdc/admin/login.php
 "พิมพ์ใบ
-                                Consent"|/hdc/admin/consent.php
-สมัครสมาชิก|/hdc/admin/register.php
+                                Consent"|https://hdcservice.moph.go.th/hdc/admin/consent.php
+สมัครสมาชิก|https://hdcservice.moph.go.th/hdc/admin/register.php
 ทีมพัฒนาโปรแกรม|./../includes/about.php
 คู่มือการใช้งานโปรแกรม|./../documents/document.php
 WhilteList|#dashboard_whitelist
@@ -139,5 +139,5 @@ COVID-19|#covid19
 HDC HIE|#hie
 Dashboard|#dashboard
 What NEW!|#whatnew
-Q&amp;A|#qanda
+Q&A|#qanda
 H4U Consent|https://hdcservice.moph.go.th/hdc/admin/consent_person.php

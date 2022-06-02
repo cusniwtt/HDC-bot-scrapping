@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import os
 
-df = pd.read_csv('All_link.csv', sep='|')   #import dataframe from csv file
+df = pd.read_csv('link_csv/All_link.csv', sep='|')   #import dataframe from csv file
 print(df.shape)
 
 #Cut dataframe into single file by category
@@ -43,5 +43,5 @@ list_df = [df_info, df_state, df_access, df_defend, df_servplan, df_ministry, df
 list_name = ['info', 'state', 'access', 'defend', 'servplan', 'ministry', 'NCD']        #create list of name for loop
 
 for i in range(len(list_df)):
-    list_df[i].to_csv('csv/{}.csv'.format(list_name[i]), sep='|', index=False)
-    print('{}.csv created'.format(list_name[i]))
+    list_df[i].to_csv('link_csv/{}.csv'.format(list_name[i]), sep='|', index=False)
+    print('{}.csv created in link_csv'.format(list_name[i]))
