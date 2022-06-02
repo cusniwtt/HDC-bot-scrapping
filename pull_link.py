@@ -14,22 +14,23 @@ def index_bracket(text):    #Defind function to find index of bracket
     first, second = 0, 0
     return first, second    #If null, return 0
 
+#Parameter Setting
 url = 'https://hdcservice.moph.go.th/hdc/main/index.php'
 reqs = requests.get(url)
 soup = BeautifulSoup(reqs.text, 'html.parser')
 names = soup.find_all('a')  # find all names
 names_cut = []
+urls = []
 
-for i in range(len(names)): #Cut all names and append in names_cut list
+#Cut all names and append in names_cut list
+for i in range(len(names)):
     temp = str(names[i])[:-4]
     index1, index2 = index_bracket(temp)
     cut = temp[index2 + 1:]
     names_cut.append(cut)
 
-
-urls = []
-
-for link in soup.find_all('a'): #Find all links and append in urls list
+#Find all links and append in urls list
+for link in soup.find_all('a'):
     full_url = str(link.get('href'))
     if str(full_url)[:2] == '..':
         full_url = 'https://hdcservice.moph.go.th/hdc/' + full_url[3:]

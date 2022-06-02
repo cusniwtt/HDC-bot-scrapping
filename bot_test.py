@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 import time
 import requests
 
-from grablink import grab_all_link
+from fix_csv import grab_all_link
 
 #url = 'https://google.com'
 url = 'https://hdcservice.moph.go.th/hdc/main/index.php'
