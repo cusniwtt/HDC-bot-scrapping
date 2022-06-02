@@ -1,11 +1,2 @@
-import pyautogui
-import time
-
-print("This is a test")
-print(pyautogui.size())
-time.sleep(5)
-
-print(pyautogui.position())
-time.sleep(2)
-pyautogui.click(100, 300)
-pyautogui.typewrite("hello Geeks !")
+text = '<a href=""/hdc/reports/s_report_service.php?source=monitor/monitor_moph_send.php"">รายงานติดตามการส่งข้อมูลของผู้บริหาร(Freeze)</a>'
+print(text[:-4])

@@ -1,143 +1,143 @@
 name|url
-"<a class=""toggle-nav"" href=""#"">
+"
 <i class=""fa fa-bars""></i>
-</a>"|#
-"<a class=""navbar-defaultp navbar-brand"" href=""#""><img src=""../themes/img/logo-big1.png"" style=""height: 40px; margin-top: -12px;""/></a>"|#
-"<a href=""/hdc/index.php"">
+"|#
+"<img src=""../themes/img/logo-big1.png"" style=""height: 40px; margin-top: -12px;""/>"|#
+"
 <span>หน้าแรก</span>
-</a>"|/hdc/index.php
-"<a class=""dropdown-toggle"" data-toggle=""dropdown"" href=""#"">
+"|/hdc/index.php
+"
 <span>กลุ่มรายงานมาตรฐาน</span>
 <span class=""caret""></span>
-</a>"|#
-"<a class=""dropdown-toggle"" data-toggle=""dropdown"" href=""#"">ข้อมูลทั่วไป</a>"|#
-"<a href=""../reports/page.php?cat_id=ac4eed1bddb23d6130746d62d2538fd0"">ประชากร</a>"|../reports/page.php?cat_id=ac4eed1bddb23d6130746d62d2538fd0
-"<a href=""../reports/page.php?cat_id=2dd52135c6fe0be88dc455a59202bcd5"">ความครอบคลุมการมีหลักประกันสุขภาพโดยรัฐ</a>"|../reports/page.php?cat_id=2dd52135c6fe0be88dc455a59202bcd5
-"<a href=""../reports/page.php?cat_id=c11dad88f80061c70cd1ae96b500d017"">บุคลากรสาธารณสุข</a>"|../reports/page.php?cat_id=c11dad88f80061c70cd1ae96b500d017
-"<a href=""../reports/page.php?cat_id=b415510618e13273b2f2918587f86e5d"">จำนวนหน่วยงานสาธารณสุข</a>"|../reports/page.php?cat_id=b415510618e13273b2f2918587f86e5d
-"<a href=""../reports/page.php?cat_id=b91a30012c36ef54910261d9cfc6d7f5"">ข้อมูลพื้นฐานและสรุปผู้รับบริการ</a>"|../reports/page.php?cat_id=b91a30012c36ef54910261d9cfc6d7f5
-"<a href=""../reports/page.php?cat_id=dc6012062b7e25f464da5f82f756e4ce"">โรงเรียนและนักเรียน</a>"|../reports/page.php?cat_id=dc6012062b7e25f464da5f82f756e4ce
-"<a class=""dropdown-toggle"" data-toggle=""dropdown"" href=""#"">สถานะสุขภาพ</a>"|#
-"<a href=""../reports/page.php?cat_id=7f9ab56b0f39fd053143ecc4f05354fc"">การป่วยด้วยโรคติดต่อที่สำคัญ</a>"|../reports/page.php?cat_id=7f9ab56b0f39fd053143ecc4f05354fc
-"<a href=""../reports/page.php?cat_id=6a1fdf282fd28180eed7d1cfe0155e11"">การป่วยด้วยโรคไม่ติดต่อที่สำคัญ</a>"|../reports/page.php?cat_id=6a1fdf282fd28180eed7d1cfe0155e11
-"<a href=""../reports/page.php?cat_id=491672679818600345dc1833920051b2"">สาเหตุการป่วย/ตาย </a>"|../reports/page.php?cat_id=491672679818600345dc1833920051b2
-"<a href=""../reports/page.php?cat_id=7a18700f863ca0f12e569688b0763db4"">งานวัณโรค</a>"|../reports/page.php?cat_id=7a18700f863ca0f12e569688b0763db4
-"<a href=""../reports/page.php?cat_id=f16421e617aed29602f9f09d951cce68"">โรคจากการประกอบอาชีพและสิ่งแวดล้อม</a>"|../reports/page.php?cat_id=f16421e617aed29602f9f09d951cce68
-"<a href=""../reports/page.php?cat_id=6628306e55f95da4e791f1ddce220e9e"">กลุ่มพระภิกษุ-สามเณร</a>"|../reports/page.php?cat_id=6628306e55f95da4e791f1ddce220e9e
-"<a href=""../reports/page.php?cat_id=9c647c1f31ac73f4396c2cf987e7448a"">การป่วยด้วยโรคจากมลพิษทางอากาศ</a>"|../reports/page.php?cat_id=9c647c1f31ac73f4396c2cf987e7448a
-"<a class=""dropdown-toggle"" data-toggle=""dropdown"" href=""#"">การเข้าถึงบริการ</a>"|#
-"<a href=""../reports/page.php?cat_id=9d8c311d6336373d40437c4423508cad"">การใช้บริการสาธารณสุข</a>"|../reports/page.php?cat_id=9d8c311d6336373d40437c4423508cad
-"<a href=""../reports/page.php?cat_id=ea11bc4bbf333b78e6f53a26f7ab6c89"">การเข้าถึงระบบบริการสุขภาพจิต</a>"|../reports/page.php?cat_id=ea11bc4bbf333b78e6f53a26f7ab6c89
-"<a href=""../reports/page.php?cat_id=30bc6364fc06a33a7802e16bc596ac3b"">แพทย์แผนไทย</a>"|../reports/page.php?cat_id=30bc6364fc06a33a7802e16bc596ac3b
-"<a href=""../reports/page.php?cat_id=e67da2428ef09faaa68d7e92d1becb51"">แพทย์แผนจีน</a>"|../reports/page.php?cat_id=e67da2428ef09faaa68d7e92d1becb51
-"<a href=""../reports/page.php?cat_id=fc73b811eb6d9206e7e5baf8ad20d7b9"">ทันตกรรม(บริการ)</a>"|../reports/page.php?cat_id=fc73b811eb6d9206e7e5baf8ad20d7b9
-"<a href=""../reports/page.php?cat_id=833e9779725ef96bc06926d8ba4e4c04"">CMI</a>"|../reports/page.php?cat_id=833e9779725ef96bc06926d8ba4e4c04
-"<a href=""../reports/page.php?cat_id=05d5bbe615038819d80d798413f13c93"">เภสัชกรรม</a>"|../reports/page.php?cat_id=05d5bbe615038819d80d798413f13c93
-"<a href=""../reports/page.php?cat_id=f05dcee246d3d761e4637d611d773cb6"">ต่างด้าว</a>"|../reports/page.php?cat_id=f05dcee246d3d761e4637d611d773cb6
-"<a href=""../reports/page.php?cat_id=6e6b8a42012f37ae32459cd806d9aed7"">โรคจากการประกอบอาชีพและสิ่งแวดล้อมแรงงานต่างด้าว</a>"|../reports/page.php?cat_id=6e6b8a42012f37ae32459cd806d9aed7
-"<a href=""../reports/page.php?cat_id=e116ddc585454af132e4607294d57f6a"">โรคมาลาเรีย</a>"|../reports/page.php?cat_id=e116ddc585454af132e4607294d57f6a
-"<a href=""../reports/page.php?cat_id=0eb953d9735a9625ac19acfa5ebcd368"">การบำบัดรักษาและฟื้นฟูผู้ติดยาเสพติด จากระบบ(บสต.)</a>"|../reports/page.php?cat_id=0eb953d9735a9625ac19acfa5ebcd368
-"<a class=""dropdown-toggle"" data-toggle=""dropdown"" href=""#"">ส่งเสริมป้องกัน</a>"|#
-"<a href=""../reports/page.php?cat_id=1ed90bc32310b503b7ca9b32af425ae5"">อนามัยแม่และเด็ก</a>"|../reports/page.php?cat_id=1ed90bc32310b503b7ca9b32af425ae5
-"<a href=""../reports/page.php?cat_id=67f8b1657bc8c796274fb9b6ad5a701d"">อนามัยโรงเรียน</a>"|../reports/page.php?cat_id=67f8b1657bc8c796274fb9b6ad5a701d
-"<a href=""../reports/page.php?cat_id=4df360514655f79f13901ef1181ca1c7"">การสร้างเสริมภูมิคุ้มกันโรค</a>"|../reports/page.php?cat_id=4df360514655f79f13901ef1181ca1c7
-"<a href=""../reports/page.php?cat_id=6966b0664b89805a484d7ac96c6edc48"">การคัดกรอง</a>"|../reports/page.php?cat_id=6966b0664b89805a484d7ac96c6edc48
-"<a href=""../reports/page.php?cat_id=cf7d9da207c0f9a7ee6c4fe3f09f67dd"">การเฝ้าระวัง</a>"|../reports/page.php?cat_id=cf7d9da207c0f9a7ee6c4fe3f09f67dd
-"<a href=""../reports/page.php?cat_id=46522b5bd1e06d24a5bd81917257a93c"">งานโภชนาการ</a>"|../reports/page.php?cat_id=46522b5bd1e06d24a5bd81917257a93c
-"<a href=""../reports/page.php?cat_id=bebf866fceaef84c4078965eaf619565"">การเฝ้าระวังด้านส่งเสริมสุขภาพและอนามัยสิ่งแวดล้อม</a>"|../reports/page.php?cat_id=bebf866fceaef84c4078965eaf619565
-"<a href=""../reports/page.php?cat_id=574437c29aff8d1709da55677abc4b03"">ส่งเสริมและป้องกันปัญหาสุขภาพจิต</a>"|../reports/page.php?cat_id=574437c29aff8d1709da55677abc4b03
-"<a class=""dropdown-toggle"" data-toggle=""dropdown"" href=""#"">ข้อมูลตอบสนอง Service Plan</a>"|#
-"<a href=""../reports/page.php?cat_id=39fd60c25235db479930db85a0e97dd3"">ข้อมูลเพื่อตอบสนอง Service Plan สาขาโรคหัวใจ และหลอดเลือด</a>"|../reports/page.php?cat_id=39fd60c25235db479930db85a0e97dd3
-"<a href=""../reports/page.php?cat_id=59acae7a68f02c8e2c0cb88dfc6df3b3"">ข้อมูลเพื่อตอบสนอง Service Plan สาขามะเร็ง</a>"|../reports/page.php?cat_id=59acae7a68f02c8e2c0cb88dfc6df3b3
-"<a href=""../reports/page.php?cat_id=58b45d24cc1ba2a288d0f9bb1f7d3f71"">ข้อมูลเพื่อตอบสนอง Service Plan สาขาทารกแรกเกิด</a>"|../reports/page.php?cat_id=58b45d24cc1ba2a288d0f9bb1f7d3f71
-"<a href=""../reports/page.php?cat_id=22710ed5db1ed6b12aab540a7b0753b3"">ข้อมูลเพื่อตอบสนอง Service Plan สาขาสุขภาพจิตและจิตเวช</a>"|../reports/page.php?cat_id=22710ed5db1ed6b12aab540a7b0753b3
-"<a href=""../reports/page.php?cat_id=db30e434e30565c12fbac44958e338d5"">ข้อมูลเพื่อตอบสนอง Service Plan สาขาสุขภาพช่องปาก</a>"|../reports/page.php?cat_id=db30e434e30565c12fbac44958e338d5
-"<a href=""../reports/page.php?cat_id=3f32171e7f7b8dc7f36949985cdf3d30"">ข้อมูลเพื่อตอบสนอง Service Plan สาขาตา</a>"|../reports/page.php?cat_id=3f32171e7f7b8dc7f36949985cdf3d30
-"<a href=""../reports/page.php?cat_id=e71a73a77b1474e63b71bccf727009ce"">ข้อมูลเพื่อตอบสนอง Service Plan สาขาไต</a>"|../reports/page.php?cat_id=e71a73a77b1474e63b71bccf727009ce
-"<a href=""../reports/page.php?cat_id=b2b59e64c4e6c92d4b1ec16a599d882b"">ข้อมูลเพื่อตอบสนอง Service Plan สาขาโรคไม่ติดต่อ (NCD DM,HT,CVD)</a>"|../reports/page.php?cat_id=b2b59e64c4e6c92d4b1ec16a599d882b
-"<a href=""../reports/page.php?cat_id=67473ea582306d345ce1bb44b06ba2e9"">ข้อมูลเพื่อตอบสนอง Service Plan สาขาโรคปอดอุดกั้นเรื้อรัง(COPD)</a>"|../reports/page.php?cat_id=67473ea582306d345ce1bb44b06ba2e9
-"<a href=""../reports/page.php?cat_id=03b912ab9ccb4c07280a89bf05e5900e"">ข้อมูลเพื่อตอบสนอง Service Plan สาขา RDU</a>"|../reports/page.php?cat_id=03b912ab9ccb4c07280a89bf05e5900e
-"<a href=""../reports/page.php?cat_id=b08560518ca0ebcaf2016dab69fb38b5"">ข้อมูลเพื่อตอบสนอง Service Plan สาขา Intermediate &amp; Palliative Care</a>"|../reports/page.php?cat_id=b08560518ca0ebcaf2016dab69fb38b5
-"<a href=""../reports/page.php?cat_id=06b9ffbd9fa83f29fef3a7e7ba8119d6"">ข้อมูลเพื่อตอบสนอง Service Plan สาขายาเสพติด</a>"|../reports/page.php?cat_id=06b9ffbd9fa83f29fef3a7e7ba8119d6
-"<a href=""../reports/page.php?cat_id=144fdf97a756b3f82dce197287e06316"">ข้อมูลเพื่อตอบสนอง Service Plan สาขาอายุรกรรม</a>"|../reports/page.php?cat_id=144fdf97a756b3f82dce197287e06316
-"<a href=""../reports/page.php?cat_id=3dc2d92087cdc5b585eb8c0904691399"">ข้อมูลเพื่อตอบสนอง Service Plan สาขาแม่และเด็ก</a>"|../reports/page.php?cat_id=3dc2d92087cdc5b585eb8c0904691399
-"<a href=""../reports/page.php?cat_id=6ab575a8e5fc6df2a182936531fe99e6"">ข้อมูลเพื่อตอบสนอง Service Plan สาขาออร์โธปิดิกส์</a>"|../reports/page.php?cat_id=6ab575a8e5fc6df2a182936531fe99e6
-"<a href=""../reports/page.php?cat_id=4b7d1f9bc16e8fdae6d1cf6d92922cbe"">ข้อมูลเพื่อตอบสนอง Service Plan 4 สาขาหลัก</a>"|../reports/page.php?cat_id=4b7d1f9bc16e8fdae6d1cf6d92922cbe
-"<a href=""../reports/page.php?cat_id=2908c586a168578a2c4aee3ab13963c9"">ข้อมูลเพื่อตอบสนอง Service Plan สาขากัญชา</a>"|../reports/page.php?cat_id=2908c586a168578a2c4aee3ab13963c9
-"<a class=""dropdown-toggle"" data-toggle=""dropdown"" href=""#"">
+"|#
+ข้อมูลทั่วไป|#
+ประชากร|../reports/page.php?cat_id=ac4eed1bddb23d6130746d62d2538fd0
+ความครอบคลุมการมีหลักประกันสุขภาพโดยรัฐ|../reports/page.php?cat_id=2dd52135c6fe0be88dc455a59202bcd5
+บุคลากรสาธารณสุข|../reports/page.php?cat_id=c11dad88f80061c70cd1ae96b500d017
+จำนวนหน่วยงานสาธารณสุข|../reports/page.php?cat_id=b415510618e13273b2f2918587f86e5d
+ข้อมูลพื้นฐานและสรุปผู้รับบริการ|../reports/page.php?cat_id=b91a30012c36ef54910261d9cfc6d7f5
+โรงเรียนและนักเรียน|../reports/page.php?cat_id=dc6012062b7e25f464da5f82f756e4ce
+สถานะสุขภาพ|#
+การป่วยด้วยโรคติดต่อที่สำคัญ|../reports/page.php?cat_id=7f9ab56b0f39fd053143ecc4f05354fc
+การป่วยด้วยโรคไม่ติดต่อที่สำคัญ|../reports/page.php?cat_id=6a1fdf282fd28180eed7d1cfe0155e11
+สาเหตุการป่วย/ตาย |../reports/page.php?cat_id=491672679818600345dc1833920051b2
+งานวัณโรค|../reports/page.php?cat_id=7a18700f863ca0f12e569688b0763db4
+โรคจากการประกอบอาชีพและสิ่งแวดล้อม|../reports/page.php?cat_id=f16421e617aed29602f9f09d951cce68
+กลุ่มพระภิกษุ-สามเณร|../reports/page.php?cat_id=6628306e55f95da4e791f1ddce220e9e
+การป่วยด้วยโรคจากมลพิษทางอากาศ|../reports/page.php?cat_id=9c647c1f31ac73f4396c2cf987e7448a
+การเข้าถึงบริการ|#
+การใช้บริการสาธารณสุข|../reports/page.php?cat_id=9d8c311d6336373d40437c4423508cad
+การเข้าถึงระบบบริการสุขภาพจิต|../reports/page.php?cat_id=ea11bc4bbf333b78e6f53a26f7ab6c89
+แพทย์แผนไทย|../reports/page.php?cat_id=30bc6364fc06a33a7802e16bc596ac3b
+แพทย์แผนจีน|../reports/page.php?cat_id=e67da2428ef09faaa68d7e92d1becb51
+ทันตกรรม(บริการ)|../reports/page.php?cat_id=fc73b811eb6d9206e7e5baf8ad20d7b9
+CMI|../reports/page.php?cat_id=833e9779725ef96bc06926d8ba4e4c04
+เภสัชกรรม|../reports/page.php?cat_id=05d5bbe615038819d80d798413f13c93
+ต่างด้าว|../reports/page.php?cat_id=f05dcee246d3d761e4637d611d773cb6
+โรคจากการประกอบอาชีพและสิ่งแวดล้อมแรงงานต่างด้าว|../reports/page.php?cat_id=6e6b8a42012f37ae32459cd806d9aed7
+โรคมาลาเรีย|../reports/page.php?cat_id=e116ddc585454af132e4607294d57f6a
+การบำบัดรักษาและฟื้นฟูผู้ติดยาเสพติด จากระบบ(บสต.)|../reports/page.php?cat_id=0eb953d9735a9625ac19acfa5ebcd368
+ส่งเสริมป้องกัน|#
+อนามัยแม่และเด็ก|../reports/page.php?cat_id=1ed90bc32310b503b7ca9b32af425ae5
+อนามัยโรงเรียน|../reports/page.php?cat_id=67f8b1657bc8c796274fb9b6ad5a701d
+การสร้างเสริมภูมิคุ้มกันโรค|../reports/page.php?cat_id=4df360514655f79f13901ef1181ca1c7
+การคัดกรอง|../reports/page.php?cat_id=6966b0664b89805a484d7ac96c6edc48
+การเฝ้าระวัง|../reports/page.php?cat_id=cf7d9da207c0f9a7ee6c4fe3f09f67dd
+งานโภชนาการ|../reports/page.php?cat_id=46522b5bd1e06d24a5bd81917257a93c
+การเฝ้าระวังด้านส่งเสริมสุขภาพและอนามัยสิ่งแวดล้อม|../reports/page.php?cat_id=bebf866fceaef84c4078965eaf619565
+ส่งเสริมและป้องกันปัญหาสุขภาพจิต|../reports/page.php?cat_id=574437c29aff8d1709da55677abc4b03
+ข้อมูลตอบสนอง Service Plan|#
+ข้อมูลเพื่อตอบสนอง Service Plan สาขาโรคหัวใจ และหลอดเลือด|../reports/page.php?cat_id=39fd60c25235db479930db85a0e97dd3
+ข้อมูลเพื่อตอบสนอง Service Plan สาขามะเร็ง|../reports/page.php?cat_id=59acae7a68f02c8e2c0cb88dfc6df3b3
+ข้อมูลเพื่อตอบสนอง Service Plan สาขาทารกแรกเกิด|../reports/page.php?cat_id=58b45d24cc1ba2a288d0f9bb1f7d3f71
+ข้อมูลเพื่อตอบสนอง Service Plan สาขาสุขภาพจิตและจิตเวช|../reports/page.php?cat_id=22710ed5db1ed6b12aab540a7b0753b3
+ข้อมูลเพื่อตอบสนอง Service Plan สาขาสุขภาพช่องปาก|../reports/page.php?cat_id=db30e434e30565c12fbac44958e338d5
+ข้อมูลเพื่อตอบสนอง Service Plan สาขาตา|../reports/page.php?cat_id=3f32171e7f7b8dc7f36949985cdf3d30
+ข้อมูลเพื่อตอบสนอง Service Plan สาขาไต|../reports/page.php?cat_id=e71a73a77b1474e63b71bccf727009ce
+ข้อมูลเพื่อตอบสนอง Service Plan สาขาโรคไม่ติดต่อ (NCD DM,HT,CVD)|../reports/page.php?cat_id=b2b59e64c4e6c92d4b1ec16a599d882b
+ข้อมูลเพื่อตอบสนอง Service Plan สาขาโรคปอดอุดกั้นเรื้อรัง(COPD)|../reports/page.php?cat_id=67473ea582306d345ce1bb44b06ba2e9
+ข้อมูลเพื่อตอบสนอง Service Plan สาขา RDU|../reports/page.php?cat_id=03b912ab9ccb4c07280a89bf05e5900e
+ข้อมูลเพื่อตอบสนอง Service Plan สาขา Intermediate &amp; Palliative Care|../reports/page.php?cat_id=b08560518ca0ebcaf2016dab69fb38b5
+ข้อมูลเพื่อตอบสนอง Service Plan สาขายาเสพติด|../reports/page.php?cat_id=06b9ffbd9fa83f29fef3a7e7ba8119d6
+ข้อมูลเพื่อตอบสนอง Service Plan สาขาอายุรกรรม|../reports/page.php?cat_id=144fdf97a756b3f82dce197287e06316
+ข้อมูลเพื่อตอบสนอง Service Plan สาขาแม่และเด็ก|../reports/page.php?cat_id=3dc2d92087cdc5b585eb8c0904691399
+ข้อมูลเพื่อตอบสนอง Service Plan สาขาออร์โธปิดิกส์|../reports/page.php?cat_id=6ab575a8e5fc6df2a182936531fe99e6
+ข้อมูลเพื่อตอบสนอง Service Plan 4 สาขาหลัก|../reports/page.php?cat_id=4b7d1f9bc16e8fdae6d1cf6d92922cbe
+ข้อมูลเพื่อตอบสนอง Service Plan สาขากัญชา|../reports/page.php?cat_id=2908c586a168578a2c4aee3ab13963c9
+"
 <span>ตัวชี้วัด</span>
 <span class=""caret""></span>
-</a>"|#
-"<a class=""dropdown-toggle"" data-toggle=""dropdown"" href=""#"">กระทรวง</a>"|#
-"<a href=""/hdc/reports/page_kpi.php?flag_kpi_level=1&amp;flag_kpi_year=2022""> ปี 2565</a>"|/hdc/reports/page_kpi.php?flag_kpi_level=1&flag_kpi_year=2022
-"<a href=""/hdc/reports/page_kpi.php?flag_kpi_level=1&amp;flag_kpi_year=2021""> ปี 2564</a>"|/hdc/reports/page_kpi.php?flag_kpi_level=1&flag_kpi_year=2021
-"<a href=""/hdc/reports/page_kpi.php?flag_kpi_level=1&amp;flag_kpi_year=2020""> ปี 2563</a>"|/hdc/reports/page_kpi.php?flag_kpi_level=1&flag_kpi_year=2020
-"<a href=""/hdc/reports/page_kpi.php?flag_kpi_level=1&amp;flag_kpi_year=2019""> ปี 2562</a>"|/hdc/reports/page_kpi.php?flag_kpi_level=1&flag_kpi_year=2019
-"<a href=""/hdc/reports/page_kpi.php?flag_kpi_level=1&amp;flag_kpi_year=2018""> ปี 2561</a>"|/hdc/reports/page_kpi.php?flag_kpi_level=1&flag_kpi_year=2018
-"<a href=""/hdc/reports/page_kpi.php?flag_kpi_level=1&amp;flag_kpi_year=2017""> ปี 2560</a>"|/hdc/reports/page_kpi.php?flag_kpi_level=1&flag_kpi_year=2017
-"<a href=""/hdc/reports/page_kpi.php?flag_kpi_level=1&amp;flag_kpi_year=2016""> ปี 2559</a>"|/hdc/reports/page_kpi.php?flag_kpi_level=1&flag_kpi_year=2016
-"<a href=""/hdc/reports/page_kpi.php?flag_kpi_level=1&amp;flag_kpi_year=2015""> ปี 2558</a>"|/hdc/reports/page_kpi.php?flag_kpi_level=1&flag_kpi_year=2015
-"<a class=""dropdown-toggle"" data-toggle=""dropdown"" href=""#"">NCD ClinicPlus</a>"|#
-"<a href=""/hdc/reports/page_kpi.php?flag_kpi_level=9&amp;flag_kpi_year=2022""> ปี 2565</a>"|/hdc/reports/page_kpi.php?flag_kpi_level=9&flag_kpi_year=2022
-"<a href=""/hdc/reports/page_kpi.php?flag_kpi_level=9&amp;flag_kpi_year=2021""> ปี 2564</a>"|/hdc/reports/page_kpi.php?flag_kpi_level=9&flag_kpi_year=2021
-"<a href=""/hdc/reports/page_kpi.php?flag_kpi_level=9&amp;flag_kpi_year=2020""> ปี 2563</a>"|/hdc/reports/page_kpi.php?flag_kpi_level=9&flag_kpi_year=2020
-"<a href=""/hdc/reports/page_kpi.php?flag_kpi_level=9&amp;flag_kpi_year=2019""> ปี 2562</a>"|/hdc/reports/page_kpi.php?flag_kpi_level=9&flag_kpi_year=2019
-"<a href=""/hdc/reports/page_kpi.php?flag_kpi_level=9&amp;flag_kpi_year=2018""> ปี 2561</a>"|/hdc/reports/page_kpi.php?flag_kpi_level=9&flag_kpi_year=2018
-"<a class=""dropdown-toggle"" data-toggle=""dropdown"" href=""#"">
+"|#
+กระทรวง|#
+ ปี 2565|/hdc/reports/page_kpi.php?flag_kpi_level=1&flag_kpi_year=2022
+ ปี 2564|/hdc/reports/page_kpi.php?flag_kpi_level=1&flag_kpi_year=2021
+ ปี 2563|/hdc/reports/page_kpi.php?flag_kpi_level=1&flag_kpi_year=2020
+ ปี 2562|/hdc/reports/page_kpi.php?flag_kpi_level=1&flag_kpi_year=2019
+ ปี 2561|/hdc/reports/page_kpi.php?flag_kpi_level=1&flag_kpi_year=2018
+ ปี 2560|/hdc/reports/page_kpi.php?flag_kpi_level=1&flag_kpi_year=2017
+ ปี 2559|/hdc/reports/page_kpi.php?flag_kpi_level=1&flag_kpi_year=2016
+ ปี 2558|/hdc/reports/page_kpi.php?flag_kpi_level=1&flag_kpi_year=2015
+NCD ClinicPlus|#
+ ปี 2565|/hdc/reports/page_kpi.php?flag_kpi_level=9&flag_kpi_year=2022
+ ปี 2564|/hdc/reports/page_kpi.php?flag_kpi_level=9&flag_kpi_year=2021
+ ปี 2563|/hdc/reports/page_kpi.php?flag_kpi_level=9&flag_kpi_year=2020
+ ปี 2562|/hdc/reports/page_kpi.php?flag_kpi_level=9&flag_kpi_year=2019
+ ปี 2561|/hdc/reports/page_kpi.php?flag_kpi_level=9&flag_kpi_year=2018
+"
 <span>ตรวจสอบการส่งข้อมูล</span>
 <span class=""caret""></span>
-</a>"|#
-"<a href=""/hdc/reports/s_report_service.php?source=monitor/monitor_moph_send.php"">รายงานติดตามการส่งข้อมูลของผู้บริหาร(Freeze)</a>"|/hdc/reports/s_report_service.php?source=monitor/monitor_moph_send.php
-"<a href=""/hdc/admin/transfer_stat.php"">การส่งข้อมูลทันเวลาจำแนกตามเดือน</a>"|/hdc/admin/transfer_stat.php
-"<a href=""/hdc/admin/check_transfer_ws.php"">ตรวจสอบการส่งข้อมูลแบบละเอียด</a>"|/hdc/admin/check_transfer_ws.php
-"<a class=""dropdown-toggle"" data-toggle=""dropdown"" href=""#"">การส่งข้อมูลตาม พ.ร.บ. 2558</a>"|#
-"<a href=""/hdc/reports/report_of.php?source=pformated/format1.php&amp;cat_id=1ba40f71cfccbbe3f67ced06d1085062&amp;id=75fdd3146568f38dc56b18a77978c7d6"">การยืนยันข้อมูลเพื่อการรายงานโรค</a>"|/hdc/reports/report_of.php?source=pformated/format1.php&cat_id=1ba40f71cfccbbe3f67ced06d1085062&id=75fdd3146568f38dc56b18a77978c7d6
-"<a href=""/hdc/reports/report_of.php?source=pformated/format1.php&amp;cat_id=1ba40f71cfccbbe3f67ced06d1085062&amp;id=0772a9a8a1baa1a21de6cb1f08de6fa1"">ข้อมูลกลุ่มประชากรหลัก(KP)</a>"|/hdc/reports/report_of.php?source=pformated/format1.php&cat_id=1ba40f71cfccbbe3f67ced06d1085062&id=0772a9a8a1baa1a21de6cb1f08de6fa1
-"<a href=""/hdc/reports/report_of.php?source=pformated/format1.php&amp;cat_id=1ba40f71cfccbbe3f67ced06d1085062&amp;id=6369f2c7298b2cd2de2f30111a86e9df"">ข้อมูลการตรวจทางห้องปฎิบัติการ
-                                    (LABFU-HIV)</a>"|/hdc/reports/report_of.php?source=pformated/format1.php&cat_id=1ba40f71cfccbbe3f67ced06d1085062&id=6369f2c7298b2cd2de2f30111a86e9df
-"<a href=""/hdc/admin/monitor43hdcservice.php"">สรุปจำนวนข้อมูล
-                            43 แฟ้ม</a>"|/hdc/admin/monitor43hdcservice.php
-"<a href=""/hdc/reports/s_report_service.php?source=monitor/monitor_service_send.php"">สรุปการส่ง
-                            43 แฟ้มจากแฟ้ม Service</a>"|/hdc/reports/s_report_service.php?source=monitor/monitor_service_send.php
-"<a href=""/hdc/reports/s_report_all.php?source=monitor/format1.php&amp;id=01fc5dff8cfce19fde7547ebf0d4fe74&amp;selMoph=1&amp;selDep=21008"">คุุณภาพแฟ้มข้อมูลสำคัญด้านสุขภาพจิต</a>"|/hdc/reports/s_report_all.php?source=monitor/format1.php&id=01fc5dff8cfce19fde7547ebf0d4fe74&selMoph=1&selDep=21008
-"<a href=""/hdc/admin/monitor43hosp.php"">ข้อมูลผู้ป่วยนอก
-                            - ผู้ป่วยใน ของ รพศ. และ รพท. </a>"|/hdc/admin/monitor43hosp.php
-"<a href=""/hdc/reports/h_report.php?id=06c37818472cadb8a40faa8732bde66a&amp;tb_name=service""> ข้อมูลผู้ป่วยนอก
-                                    ของ รพศ. และ รพท.</a>"|/hdc/reports/h_report.php?id=06c37818472cadb8a40faa8732bde66a&tb_name=service
-"<a href=""/hdc/reports/h_report.php?id=06c37818472cadb8a40faa8732bde66a&amp;tb_name=admission""> ข้อมูลผู้ป่วยใน
-                                    ของ รพศ. และ รพท.</a>"|/hdc/reports/h_report.php?id=06c37818472cadb8a40faa8732bde66a&tb_name=admission
-"<a href=""#"">ข้อมูลผู้ป่วยนอก - ผู้ป่วยใน ของ รพช. </a>"|#
-"<a href=""/hdc/reports/hc_report.php?id=06c37818472cadb8a40faa8732bde66a&amp;tb_name=service""> ข้อมูลผู้ป่วยนอก
-                                    ของ รพช.</a>"|/hdc/reports/hc_report.php?id=06c37818472cadb8a40faa8732bde66a&tb_name=service
-"<a href=""/hdc/reports/hc_report.php?id=06c37818472cadb8a40faa8732bde66a&amp;tb_name=admission""> ข้อมูลผู้ป่วยใน
-                                    ของ รพช.</a>"|/hdc/reports/hc_report.php?id=06c37818472cadb8a40faa8732bde66a&tb_name=admission
-"<a href=""/hdc/reports/so_report.php?id=06c37818472cadb8a40faa8732bde66a&amp;tb_name=service"">ข้อมูลผู้ป่วยนอก
-                            ของ รพ.สต. และ ศสม.</a>"|/hdc/reports/so_report.php?id=06c37818472cadb8a40faa8732bde66a&tb_name=service
-"<a href=""/hdc/admin/view_map_hosp.php"">ตรวจสอบพิกัดของหน่วยบริการ</a>"|/hdc/admin/view_map_hosp.php
-"<a href=""/hdc/reports/ckd_registry.php"">CKD
-                            Registry</a>"|/hdc/reports/ckd_registry.php
-"<a href=""/hdc/reports/dmht_registry.php"">DMHT
-                            Registry</a>"|/hdc/reports/dmht_registry.php
-"<a href=""/hdc/reports/depress_registry.php"">Depression
-                            Registry</a>"|/hdc/reports/depress_registry.php
-"<a class=""dropdown-toggle"" href=""/hdc/reports/page_eis.php"">EIS</a>"|/hdc/reports/page_eis.php
-"<a class=""dropdown-toggle"" href=""/hdc/includes/about.php"">ทีมงาน</a>"|/hdc/includes/about.php
-"<a href=""/hdc/admin/login.php"">
+"|#
+รายงานติดตามการส่งข้อมูลของผู้บริหาร(Freeze)|/hdc/reports/s_report_service.php?source=monitor/monitor_moph_send.php
+การส่งข้อมูลทันเวลาจำแนกตามเดือน|/hdc/admin/transfer_stat.php
+ตรวจสอบการส่งข้อมูลแบบละเอียด|/hdc/admin/check_transfer_ws.php
+การส่งข้อมูลตาม พ.ร.บ. 2558|#
+การยืนยันข้อมูลเพื่อการรายงานโรค|/hdc/reports/report_of.php?source=pformated/format1.php&cat_id=1ba40f71cfccbbe3f67ced06d1085062&id=75fdd3146568f38dc56b18a77978c7d6
+ข้อมูลกลุ่มประชากรหลัก(KP)|/hdc/reports/report_of.php?source=pformated/format1.php&cat_id=1ba40f71cfccbbe3f67ced06d1085062&id=0772a9a8a1baa1a21de6cb1f08de6fa1
+"ข้อมูลการตรวจทางห้องปฎิบัติการ
+                                    (LABFU-HIV)"|/hdc/reports/report_of.php?source=pformated/format1.php&cat_id=1ba40f71cfccbbe3f67ced06d1085062&id=6369f2c7298b2cd2de2f30111a86e9df
+"สรุปจำนวนข้อมูล
+                            43 แฟ้ม"|/hdc/admin/monitor43hdcservice.php
+"สรุปการส่ง
+                            43 แฟ้มจากแฟ้ม Service"|/hdc/reports/s_report_service.php?source=monitor/monitor_service_send.php
+คุุณภาพแฟ้มข้อมูลสำคัญด้านสุขภาพจิต|/hdc/reports/s_report_all.php?source=monitor/format1.php&id=01fc5dff8cfce19fde7547ebf0d4fe74&selMoph=1&selDep=21008
+"ข้อมูลผู้ป่วยนอก
+                            - ผู้ป่วยใน ของ รพศ. และ รพท. "|/hdc/admin/monitor43hosp.php
+" ข้อมูลผู้ป่วยนอก
+                                    ของ รพศ. และ รพท."|/hdc/reports/h_report.php?id=06c37818472cadb8a40faa8732bde66a&tb_name=service
+" ข้อมูลผู้ป่วยใน
+                                    ของ รพศ. และ รพท."|/hdc/reports/h_report.php?id=06c37818472cadb8a40faa8732bde66a&tb_name=admission
+ข้อมูลผู้ป่วยนอก - ผู้ป่วยใน ของ รพช. |#
+" ข้อมูลผู้ป่วยนอก
+                                    ของ รพช."|/hdc/reports/hc_report.php?id=06c37818472cadb8a40faa8732bde66a&tb_name=service
+" ข้อมูลผู้ป่วยใน
+                                    ของ รพช."|/hdc/reports/hc_report.php?id=06c37818472cadb8a40faa8732bde66a&tb_name=admission
+"ข้อมูลผู้ป่วยนอก
+                            ของ รพ.สต. และ ศสม."|/hdc/reports/so_report.php?id=06c37818472cadb8a40faa8732bde66a&tb_name=service
+ตรวจสอบพิกัดของหน่วยบริการ|/hdc/admin/view_map_hosp.php
+"CKD
+                            Registry"|/hdc/reports/ckd_registry.php
+"DMHT
+                            Registry"|/hdc/reports/dmht_registry.php
+"Depression
+                            Registry"|/hdc/reports/depress_registry.php
+EIS|/hdc/reports/page_eis.php
+ทีมงาน|/hdc/includes/about.php
+"
 <span>ลงชื่อเข้าใช้งาน</span>
-</a>"|/hdc/admin/login.php
-"<a aria-expanded=""false"" class=""dropdown-toggle"" data-toggle=""dropdown"" href=""#"" role=""button"">
+"|/hdc/admin/login.php
+"
                         สวัสดี Guest                        <span class=""glyphicon-user""></span>
-</a>"|#
-"<a href=""/hdc/admin/login.php"">ลงชื่อเข้าใช้งาน</a>"|/hdc/admin/login.php
-"<a href=""/hdc/admin/consent.php"">พิมพ์ใบ
-                                Consent</a>"|/hdc/admin/consent.php
-"<a href=""/hdc/admin/register.php"">สมัครสมาชิก</a>"|/hdc/admin/register.php
-"<a href=""./../includes/about.php"">ทีมพัฒนาโปรแกรม</a>"|./../includes/about.php
-"<a href=""./../documents/document.php"">คู่มือการใช้งานโปรแกรม</a>"|./../documents/document.php
-"<a class=""nav-link"" data-toggle=""tab"" href=""#dashboard_whitelist"" id=""hie-tab"" onclick=""getPAGE('whitelist');"" role=""tab"">WhilteList</a>"|#dashboard_whitelist
-"<a class=""nav-link"" data-toggle=""tab"" href=""#covid19"" id=""covid-tab"" onclick=""getPAGE('covid');"" role=""tab"">COVID-19</a>"|#covid19
-"<a class=""nav-link"" data-toggle=""tab"" href=""#hie"" id=""hie-tab"" onclick=""getPAGE('hie');"" role=""tab"">HDC HIE</a>"|#hie
-"<a class=""nav-link"" data-toggle=""tab"" href=""#dashboard"" id=""dashboard-tab"" onclick=""getPAGE('dashboard_year');"" role=""tab"">Dashboard</a>"|#dashboard
-"<a class=""nav-link"" data-toggle=""tab"" href=""#whatnew"" id=""whatnew-tab"" onclick=""getPAGE('whatnew');"" role=""tab"">What NEW!</a>"|#whatnew
-"<a class=""nav-link"" data-toggle=""tab"" href=""#qanda"" id=""qanda-tab"" onclick=""getPAGE('qanda');"" role=""tab"">Q&amp;A</a>"|#qanda
-"<a class=""nav-link"" href=""../admin/consent_person.php"" role=""tab"">H4U Consent</a>"|../admin/consent_person.php
+"|#
+ลงชื่อเข้าใช้งาน|/hdc/admin/login.php
+"พิมพ์ใบ
+                                Consent"|/hdc/admin/consent.php
+สมัครสมาชิก|/hdc/admin/register.php
+ทีมพัฒนาโปรแกรม|./../includes/about.php
+คู่มือการใช้งานโปรแกรม|./../documents/document.php
+WhilteList|#dashboard_whitelist
+COVID-19|#covid19
+HDC HIE|#hie
+Dashboard|#dashboard
+What NEW!|#whatnew
+Q&amp;A|#qanda
+H4U Consent|../admin/consent_person.php
