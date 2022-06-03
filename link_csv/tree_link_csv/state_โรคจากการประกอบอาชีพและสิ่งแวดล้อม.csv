@@ -1,112 +1,71 @@
 ﻿name|url
-"
- 1.1. อัตราป่วยจากพิษสารกำจัดศัตรูพืช"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=f16421e617aed29602f9f09d951cce68&id=46914a29aebb9e55230cc408f59f2d39
-"
- 1.2. อัตราส่วนของผู้ป่วยจากพิษสารกำจัดศัตรูพืชต่อจำนวนครั้งของการไปรับบริการ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format4.php&cat_id=f16421e617aed29602f9f09d951cce68&id=dd73ac05d57a5d245c7e3b9981b05e90
-"
- 1.3. อัตราป่วยจากพิษสารกำจัดศัตรูพืช จำแนกรายกลุ่มอายุ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=261cb247ebbca35ea8e0069e3bf49ccc
-"
- 1.4. จำนวนผู้ป่วยจากพิษสารกำจัดศัตรูพืชจำแนกรายอาชีพ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format3.php&cat_id=f16421e617aed29602f9f09d951cce68&id=cac78eaf72c55d2a64ab5968b5765ead
-"
- 2.1. อัตราป่วยจากพิษโลหะหนักรวมทุกสาเหตุ รายกลุ่มอายุ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=0c2c7387ae62001a7f45931d36169497
-"
- 2.2. อัตราป่วยจากพิษโลหะหนักจากการทำงาน"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format1.php&cat_id=f16421e617aed29602f9f09d951cce68&id=b686b5f964b5c7acbd37153f312c8934
-"
- 2.3. อัตราป่วยจากพิษโลหะหนักจากการทำงาน จำแนกรายกลุ่มอายุ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=a61ec8ac18273ee82c3bb6e240723f2b
-"
- 2.4. อัตราป่วยจากพิษโลหะหนักจากการทำงาน จำแนกรายอาชีพ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format3.php&cat_id=f16421e617aed29602f9f09d951cce68&id=534482bca54ec5700ac1f01a12c19ac0
-"
- 3.1. อัตราป่วยจากพิษสารตะกั่วรวมทุกสาเหตุ รายกลุ่มอายุ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=3b4f3df4d17920d6ab4e94e57bf90a0f
-"
- 3.2. อัตราป่วยจากพิษสารตะกั่วจากการทำงาน"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format1.php&cat_id=f16421e617aed29602f9f09d951cce68&id=d491033a05ebe9d5e953585e26003ed5
-"
- 3.3. อัตราป่วยจากพิษสารตะกั่วจากการทำงาน รายกลุ่มอายุ "|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=ce03b358e088919a50fc729f54f3fb38
-"
- 3.4. จำนวนผู้ป่วยจากพิษสารตะกั่วจากการทำงาน จำแนกรายอาชีพ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format3.php&cat_id=f16421e617aed29602f9f09d951cce68&id=53410390a6bfd70faed3059e503663c2
-"
- 4.1. อัตราป่วยจากพิษปรอทและสารประกอบจากการทำงาน"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format1.php&cat_id=f16421e617aed29602f9f09d951cce68&id=beb15b30174cdae70c9414d2b42d042f
-"
- 4.2. อัตราป่วยจากพิษปรอทและสารประกอบจากการทำงาน รายกลุ่มอายุ "|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=6377144c4fec8be0114adf827d3672f4
-"
- 4.3. จำนวนผู้ป่วยจากพิษปรอทและสารประกอบจากการทำงาน จำแนกรายอาชีพ "|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format3.php&cat_id=f16421e617aed29602f9f09d951cce68&id=596bda11cc3b386dc473087f41c7c713
-"
- 5.1. อัตราป่วยโรคระบบทางเดินหายใจ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format5.php&cat_id=f16421e617aed29602f9f09d951cce68&id=4408d6d11a1efac662b6fd9e83594cea
-"
- 5.2. จำนวนครั้งการไปรับบริการของผู้ป่วยโรคระบบทางเดินหายใจ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format6.php&cat_id=f16421e617aed29602f9f09d951cce68&id=feffc988b1e846bcdb73036061f3bc6c
-"
- 5.3. อัตราป่วยโรคระบบทางเดินหายใจ  รายกลุ่มอายุ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=13a8e6d0c9a45a23b808d5caaacfc3d1
-"
- 5.4. อัตราป่วยโรคระบบทางเดินหายใจที่ระบุว่าเกิดจากมลพิษสิ่งแวดล้อม Y97"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format5.php&cat_id=f16421e617aed29602f9f09d951cce68&id=9eeb99bcea8aa161d0b32131605553ac
-"
- 5.5. จำนวนครั้งการไปรับบริการของผู้ป่วยโรคระบบทางเดินหายใจที่ระบุว่าเกิดจากมลพิษสิ่งแวดล้อม Y97"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format6.php&cat_id=f16421e617aed29602f9f09d951cce68&id=c6c2a669b1062f4281b4b1c15eedfe07
-"
- 5.6. อัตราป่วยโรคระบบทางเดินหายใจที่ระบุว่าเกิดจากมลพิษสิ่งแวดล้อม Y97 รายกลุ่มอายุ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=6ccc6ebe7872c453c00fee10d6b332bc
-"
- 6.1. อัตราป่วยโรคเรื้อรังของทางเดินหายใจส่วนล่าง"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format5.php&cat_id=f16421e617aed29602f9f09d951cce68&id=d972f754f2d6d9d573e0baa72e8a9b1f
-"
- 6.2. จำนวนครั้งการไปรับบริการของผู้ป่วยจากโรคเรื้อรังของทางเดินหายใจส่วนล่าง
-"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format6.php&cat_id=f16421e617aed29602f9f09d951cce68&id=20d7e466146292cd97907430b348d889
-"
- 6.3. อัตราป่วยโรคเรื้อรังของทางเดินหายใจส่วนล่าง รายกลุ่มอายุ "|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=0d5e2f76c4df97b5c522ebdac964bfa4
-"
- 6.4. อัตราป่วยโรคเรื้อรังของทางเดินหายใจส่วนล่างที่ระบุว่าเกิดจากมลพิษสิ่งแวดล้อม Y97 "|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format5.php&cat_id=f16421e617aed29602f9f09d951cce68&id=cd6e8f475b0ab7756404d12dd8bb2aed
-"
- 6.5. จำนวนครั้งการไปรับบริการของผู้ป่วยจากโรคเรื้อรังของทางเดินหายใจส่วนล่าง ที่ระบุว่าเกิดจากมลพิษสิ่งแวดล้อม Y97"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format6.php&cat_id=f16421e617aed29602f9f09d951cce68&id=134bd0133e823e68c7e1cb303e040155
-"
- 6.6. อัตราป่วยโรคเรื้อรังของทางเดินหายใจส่วนล่างที่ระบุว่าเกิดจากมลพิษสิ่งแวดล้อม Y97 รายกลุ่มอายุ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=17f68203ae16a0f813785cb8cd7bee03
-"
- 7.1. อัตราป่วยโรคหัวใจขาดเลือด"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format5.php&cat_id=f16421e617aed29602f9f09d951cce68&id=0d40cc093245578ef3ddd91c775c0046
-"
- 7.2. จำนวนครั้งการไปรับบริการของผู้ป่วยจากโรคหัวใจขาดเลือด"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format6.php&cat_id=f16421e617aed29602f9f09d951cce68&id=10095123029e7b6d5e7f791210452782
-"
- 7.3. อัตราป่วยโรคหัวใจขาดเลือด รายกลุ่มอายุ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=ecd5db6fca57a801684b68b1f41be67e
-"
- 7.4. อัตราป่วยโรคหัวใจขาดเลือดที่ระบุว่าเกิดจากมลพิษสิ่งแวดล้อม Y97"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format5.php&cat_id=f16421e617aed29602f9f09d951cce68&id=90896cde087b4969e5f7216894288515
-"
- 7.5. จำนวนครั้งการไปรับบริการของผู้ป่วยโรคหัวใจขาดเลือด ที่ระบุว่าเกิดจากมลพิษสิ่งแวดล้อม Y97 จำแนกรายเดือน"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format6.php&cat_id=f16421e617aed29602f9f09d951cce68&id=f01c0521ffc8a4df48b71bc00a664e65
-"
- 7.6. อัตราป่วยโรคหัวใจขาดเลือดที่ระบุว่าเกิดจากมลพิษสิ่งแวดล้อม Y97 จำแนกรายกลุ่มอายุ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=ad5a4ebe86027346652c577d62ef4e62
-"
- 8.1. อัตราการบาดเจ็บจากการทำงาน"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format1.php&cat_id=f16421e617aed29602f9f09d951cce68&id=9863654f3a847333b956596955c38ccd
-"
- 8.2. อัตราส่วนของผู้บาดเจ็บจากการทำงานต่อจำนวนครั้งของการไปรับบริการ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format4.php&cat_id=f16421e617aed29602f9f09d951cce68&id=8799bfad1f85930797a2a2ef2ade6c2d
-"
- 8.3. อัตราการบาดเจ็บจากการทำงาน จำแนกรายกลุ่มอายุ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=e1e9e75e724815edc67ac52f1f80fc83
-"
- 8.4. จำนวนผู้บาดเจ็บจากการทำงาน จำแนกรายอาชีพ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format3.php&cat_id=f16421e617aed29602f9f09d951cce68&id=04af2fc4613510bd9253a58658093a2b
-"
- 8.5. ร้อยละของผู้บาดเจ็บจากการทำงาน จำแนกตามสิทธิการรักษาพยาบาล"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format7.php&cat_id=f16421e617aed29602f9f09d951cce68&id=473d7aa0a99bd41d09b8458a25d64589
-"
- 9.1. อัตราป่วยโรคปอดฝุ่นหิน (Silicosis)"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format1.php&cat_id=f16421e617aed29602f9f09d951cce68&id=39b969f3d3eac09dd372c2258dc6c232
-"
- 9.2. อัตราป่วยโรคปอดฝุ่นหิน (Silicosis) รายกลุ่มอายุ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=a11144f2f4b959a4f080c6f1d184dbd3
-|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format1.php&cat_id=f16421e617aed29602f9f09d951cce68&id=b1e4e72e46a93ce8a00c05476694c90c
-|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=e7a22a7a6aa2b9b3262ffee26185b480
-|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format1.php&cat_id=f16421e617aed29602f9f09d951cce68&id=0b8a3ca5263c75cd3f1d85a53b47e890
-|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=5af124e17c9989c11d87cc1c3c091ec1
-|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format1.php&cat_id=f16421e617aed29602f9f09d951cce68&id=3b33d665833af6cc2b503cb9635aaf37
-|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=858cb6d3a5786ade53fd8713b32f8f7b
-|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format3.php&cat_id=f16421e617aed29602f9f09d951cce68&id=8b2b56d8e8f25681117c80359408ffb2
-|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format1.php&cat_id=f16421e617aed29602f9f09d951cce68&id=784f496dbe67277373f63e0615378dce
-|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=13defdb56296741c6d5f8fb11dc0d560
-|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format3.php&cat_id=f16421e617aed29602f9f09d951cce68&id=962a3783da192929eac853ab9d732f6f
-|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format1.php&cat_id=f16421e617aed29602f9f09d951cce68&id=74b22d3ae96848ef364e6b1a26da8f37
-|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=09c8e09fba88351d00c7a6b3c614e8f8
-|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format3.php&cat_id=f16421e617aed29602f9f09d951cce68&id=27b76100cf013d00077b73274d1dc690
-|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format1.php&cat_id=f16421e617aed29602f9f09d951cce68&id=0d24cd4ea0844ce80418d653d16db3e6
-|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=a999c362bec202c27734b13eadbf6335
-|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format3.php&cat_id=f16421e617aed29602f9f09d951cce68&id=1f3f5d726d1d59b828a5142c327c054b
-|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format1.php&cat_id=f16421e617aed29602f9f09d951cce68&id=2e00d0fef1dffda3a605a76a9e06efc4
-|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=52be5959bdf9b16fdd4ac389a58d1261
-|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format3.php&cat_id=f16421e617aed29602f9f09d951cce68&id=1174b3fc73bfdbe5d98fd60e11088591
-|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format1.php&cat_id=f16421e617aed29602f9f09d951cce68&id=d5f9c478e634aaf097c3ce8df2bad8e0
-|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=85df2a1cb4b03878972710ae5176405f
-|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format3.php&cat_id=f16421e617aed29602f9f09d951cce68&id=6cfde9a4092128484a27605b6a60dc05
-|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format4envocc.php&cat_id=f16421e617aed29602f9f09d951cce68&id=3605521f75754b00e35237a69ccb0b7a
-|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=bb1381959cab5bc17cf4449d46dfbee5
-|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format3envocc.php&cat_id=f16421e617aed29602f9f09d951cce68&id=991d9c1e47338d770a66f7b6ceef33ec
-|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=c418a00e23499eaf58dc397675b6e987
-|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format2envocc.php&cat_id=f16421e617aed29602f9f09d951cce68&id=c7caddce2bd0b6554024ab73c1f3fe52
-|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=835388c27d54c40deefef2b7a86b68cd
-|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1envocc.php&cat_id=f16421e617aed29602f9f09d951cce68&id=dd45886fb33ececf637145b7561ec244
-|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=62a103d3f937fedf4181651c4f549178
+"1.1. อัตราป่วยจากพิษสารกำจัดศัตรูพืช"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=f16421e617aed29602f9f09d951cce68&id=46914a29aebb9e55230cc408f59f2d39
+"1.2. อัตราส่วนของผู้ป่วยจากพิษสารกำจัดศัตรูพืชต่อจำนวนครั้งของการไปรับบริการ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format4.php&cat_id=f16421e617aed29602f9f09d951cce68&id=dd73ac05d57a5d245c7e3b9981b05e90
+"1.3. อัตราป่วยจากพิษสารกำจัดศัตรูพืช จำแนกรายกลุ่มอายุ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=261cb247ebbca35ea8e0069e3bf49ccc
+"1.4. จำนวนผู้ป่วยจากพิษสารกำจัดศัตรูพืชจำแนกรายอาชีพ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format3.php&cat_id=f16421e617aed29602f9f09d951cce68&id=cac78eaf72c55d2a64ab5968b5765ead
+"2.1. อัตราป่วยจากพิษโลหะหนักรวมทุกสาเหตุ รายกลุ่มอายุ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=0c2c7387ae62001a7f45931d36169497
+"2.2. อัตราป่วยจากพิษโลหะหนักจากการทำงาน"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format1.php&cat_id=f16421e617aed29602f9f09d951cce68&id=b686b5f964b5c7acbd37153f312c8934
+"2.3. อัตราป่วยจากพิษโลหะหนักจากการทำงาน จำแนกรายกลุ่มอายุ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=a61ec8ac18273ee82c3bb6e240723f2b
+"2.4. อัตราป่วยจากพิษโลหะหนักจากการทำงาน จำแนกรายอาชีพ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format3.php&cat_id=f16421e617aed29602f9f09d951cce68&id=534482bca54ec5700ac1f01a12c19ac0
+"3.1. อัตราป่วยจากพิษสารตะกั่วรวมทุกสาเหตุ รายกลุ่มอายุ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=3b4f3df4d17920d6ab4e94e57bf90a0f
+"3.2. อัตราป่วยจากพิษสารตะกั่วจากการทำงาน"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format1.php&cat_id=f16421e617aed29602f9f09d951cce68&id=d491033a05ebe9d5e953585e26003ed5
+"3.3. อัตราป่วยจากพิษสารตะกั่วจากการทำงาน รายกลุ่มอายุ "|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=ce03b358e088919a50fc729f54f3fb38
+"3.4. จำนวนผู้ป่วยจากพิษสารตะกั่วจากการทำงาน จำแนกรายอาชีพ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format3.php&cat_id=f16421e617aed29602f9f09d951cce68&id=53410390a6bfd70faed3059e503663c2
+"4.1. อัตราป่วยจากพิษปรอทและสารประกอบจากการทำงาน"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format1.php&cat_id=f16421e617aed29602f9f09d951cce68&id=beb15b30174cdae70c9414d2b42d042f
+"4.2. อัตราป่วยจากพิษปรอทและสารประกอบจากการทำงาน รายกลุ่มอายุ "|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=6377144c4fec8be0114adf827d3672f4
+"4.3. จำนวนผู้ป่วยจากพิษปรอทและสารประกอบจากการทำงาน จำแนกรายอาชีพ "|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format3.php&cat_id=f16421e617aed29602f9f09d951cce68&id=596bda11cc3b386dc473087f41c7c713
+"5.1. อัตราป่วยโรคระบบทางเดินหายใจ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format5.php&cat_id=f16421e617aed29602f9f09d951cce68&id=4408d6d11a1efac662b6fd9e83594cea
+"5.2. จำนวนครั้งการไปรับบริการของผู้ป่วยโรคระบบทางเดินหายใจ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format6.php&cat_id=f16421e617aed29602f9f09d951cce68&id=feffc988b1e846bcdb73036061f3bc6c
+"5.3. อัตราป่วยโรคระบบทางเดินหายใจ  รายกลุ่มอายุ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=13a8e6d0c9a45a23b808d5caaacfc3d1
+"5.4. อัตราป่วยโรคระบบทางเดินหายใจที่ระบุว่าเกิดจากมลพิษสิ่งแวดล้อม Y97"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format5.php&cat_id=f16421e617aed29602f9f09d951cce68&id=9eeb99bcea8aa161d0b32131605553ac
+"5.5. จำนวนครั้งการไปรับบริการของผู้ป่วยโรคระบบทางเดินหายใจที่ระบุว่าเกิดจากมลพิษสิ่งแวดล้อม Y97"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format6.php&cat_id=f16421e617aed29602f9f09d951cce68&id=c6c2a669b1062f4281b4b1c15eedfe07
+"5.6. อัตราป่วยโรคระบบทางเดินหายใจที่ระบุว่าเกิดจากมลพิษสิ่งแวดล้อม Y97 รายกลุ่มอายุ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=6ccc6ebe7872c453c00fee10d6b332bc
+"6.1. อัตราป่วยโรคเรื้อรังของทางเดินหายใจส่วนล่าง"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format5.php&cat_id=f16421e617aed29602f9f09d951cce68&id=d972f754f2d6d9d573e0baa72e8a9b1f
+"6.2. จำนวนครั้งการไปรับบริการของผู้ป่วยจากโรคเรื้อรังของทางเดินหายใจส่วนล่าง"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format6.php&cat_id=f16421e617aed29602f9f09d951cce68&id=20d7e466146292cd97907430b348d889
+"6.3. อัตราป่วยโรคเรื้อรังของทางเดินหายใจส่วนล่าง รายกลุ่มอายุ "|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=0d5e2f76c4df97b5c522ebdac964bfa4
+"6.4. อัตราป่วยโรคเรื้อรังของทางเดินหายใจส่วนล่างที่ระบุว่าเกิดจากมลพิษสิ่งแวดล้อม Y97 "|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format5.php&cat_id=f16421e617aed29602f9f09d951cce68&id=cd6e8f475b0ab7756404d12dd8bb2aed
+"6.5. จำนวนครั้งการไปรับบริการของผู้ป่วยจากโรคเรื้อรังของทางเดินหายใจส่วนล่าง ที่ระบุว่าเกิดจากมลพิษสิ่งแวดล้อม Y97"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format6.php&cat_id=f16421e617aed29602f9f09d951cce68&id=134bd0133e823e68c7e1cb303e040155
+"6.6. อัตราป่วยโรคเรื้อรังของทางเดินหายใจส่วนล่างที่ระบุว่าเกิดจากมลพิษสิ่งแวดล้อม Y97 รายกลุ่มอายุ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=17f68203ae16a0f813785cb8cd7bee03
+"7.1. อัตราป่วยโรคหัวใจขาดเลือด"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format5.php&cat_id=f16421e617aed29602f9f09d951cce68&id=0d40cc093245578ef3ddd91c775c0046
+"7.2. จำนวนครั้งการไปรับบริการของผู้ป่วยจากโรคหัวใจขาดเลือด"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format6.php&cat_id=f16421e617aed29602f9f09d951cce68&id=10095123029e7b6d5e7f791210452782
+"7.3. อัตราป่วยโรคหัวใจขาดเลือด รายกลุ่มอายุ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=ecd5db6fca57a801684b68b1f41be67e
+"7.4. อัตราป่วยโรคหัวใจขาดเลือดที่ระบุว่าเกิดจากมลพิษสิ่งแวดล้อม Y97"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format5.php&cat_id=f16421e617aed29602f9f09d951cce68&id=90896cde087b4969e5f7216894288515
+"7.5. จำนวนครั้งการไปรับบริการของผู้ป่วยโรคหัวใจขาดเลือด ที่ระบุว่าเกิดจากมลพิษสิ่งแวดล้อม Y97 จำแนกรายเดือน"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format6.php&cat_id=f16421e617aed29602f9f09d951cce68&id=f01c0521ffc8a4df48b71bc00a664e65
+"7.6. อัตราป่วยโรคหัวใจขาดเลือดที่ระบุว่าเกิดจากมลพิษสิ่งแวดล้อม Y97 จำแนกรายกลุ่มอายุ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=ad5a4ebe86027346652c577d62ef4e62
+"8.1. อัตราการบาดเจ็บจากการทำงาน"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format1.php&cat_id=f16421e617aed29602f9f09d951cce68&id=9863654f3a847333b956596955c38ccd
+"8.2. อัตราส่วนของผู้บาดเจ็บจากการทำงานต่อจำนวนครั้งของการไปรับบริการ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format4.php&cat_id=f16421e617aed29602f9f09d951cce68&id=8799bfad1f85930797a2a2ef2ade6c2d
+"8.3. อัตราการบาดเจ็บจากการทำงาน จำแนกรายกลุ่มอายุ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=e1e9e75e724815edc67ac52f1f80fc83
+"8.4. จำนวนผู้บาดเจ็บจากการทำงาน จำแนกรายอาชีพ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format3.php&cat_id=f16421e617aed29602f9f09d951cce68&id=04af2fc4613510bd9253a58658093a2b
+"8.5. ร้อยละของผู้บาดเจ็บจากการทำงาน จำแนกตามสิทธิการรักษาพยาบาล"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format7.php&cat_id=f16421e617aed29602f9f09d951cce68&id=473d7aa0a99bd41d09b8458a25d64589
+"9.1. อัตราป่วยโรคปอดฝุ่นหิน (Silicosis)"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format1.php&cat_id=f16421e617aed29602f9f09d951cce68&id=39b969f3d3eac09dd372c2258dc6c232
+"9.2. อัตราป่วยโรคปอดฝุ่นหิน (Silicosis) รายกลุ่มอายุ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=a11144f2f4b959a4f080c6f1d184dbd3
+"10.1. อัตราป่วยโรคระบบทางเดินหายใจที่เกิดจากแอสเบสตอส"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format1.php&cat_id=f16421e617aed29602f9f09d951cce68&id=b1e4e72e46a93ce8a00c05476694c90c
+"10.2. อัตราป่วยโรคระบบทางเดินหายใจที่เกิดจากแอสเบสตอส รายกลุ่มอายุ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=e7a22a7a6aa2b9b3262ffee26185b480
+"11.1. อัตราป่วยโรคมะเร็งเยื่อหุ้มปอดมีโซทิลิโอมา (Mesothelioma)"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format1.php&cat_id=f16421e617aed29602f9f09d951cce68&id=0b8a3ca5263c75cd3f1d85a53b47e890
+"11.2. อัตราป่วยโรคมะเร็งเยื่อหุ้มปอดมีโซทิลิโอมา (Mesothelioma) รายกลุ่มอายุ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=5af124e17c9989c11d87cc1c3c091ec1
+"12.1. อัตราป่วยโรคการได้ยินเสื่อมจากเสียง"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format1.php&cat_id=f16421e617aed29602f9f09d951cce68&id=3b33d665833af6cc2b503cb9635aaf37
+"12.2. อัตราป่วยโรคการได้ยินเสื่อมจากเสียง รายกลุ่มอายุ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=858cb6d3a5786ade53fd8713b32f8f7b
+"12.3. จำนวนผู้ป่วยโรคการได้ยินเสื่อมจากเสียง จำแนกรายอาชีพ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format3.php&cat_id=f16421e617aed29602f9f09d951cce68&id=8b2b56d8e8f25681117c80359408ffb2
+"13.1. อัตราป่วยจากพิษสารตัวทำละลายอินทรีย์จากการทำงาน"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format1.php&cat_id=f16421e617aed29602f9f09d951cce68&id=784f496dbe67277373f63e0615378dce
+"13.2. อัตราป่วยจากพิษสารตัวทำละลายอินทรีย์จากการทำงาน รายกลุ่มอายุ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=13defdb56296741c6d5f8fb11dc0d560
+"13.3. จำนวนผู้ป่วยจากพิษสารตัวทำละลายอินทรีย์จากการทำงาน จำแนกรายอาชีพ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format3.php&cat_id=f16421e617aed29602f9f09d951cce68&id=962a3783da192929eac853ab9d732f6f
+"14.1. อัตราป่วยโรคกระดูกและกล้ามเนื้อจากการทำงาน"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format1.php&cat_id=f16421e617aed29602f9f09d951cce68&id=74b22d3ae96848ef364e6b1a26da8f37
+"14.2. อัตราป่วยโรคกระดูกและกล้ามเนื้อจากการทำงาน รายกลุ่มอายุ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=09c8e09fba88351d00c7a6b3c614e8f8
+"14.3. จำนวนผู้ป่วยโรคกระดูกและกล้ามเนื้อจากการทำงาน จำแนกรายอาชีพ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format3.php&cat_id=f16421e617aed29602f9f09d951cce68&id=27b76100cf013d00077b73274d1dc690
+"15.1. อัตราป่วยโรคจากความร้อนจากการทำงาน(กลุ่ม Heat stroke)"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format1.php&cat_id=f16421e617aed29602f9f09d951cce68&id=0d24cd4ea0844ce80418d653d16db3e6
+"15.2. อัตราป่วยโรคจากความร้อนจากการทำงาน จำแนกรายกลุ่มอายุ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=a999c362bec202c27734b13eadbf6335
+"15.3. จำนวนผู้ป่วยโรคจากความร้อนจากการทำงาน จำแนกรายอาชีพ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format3.php&cat_id=f16421e617aed29602f9f09d951cce68&id=1f3f5d726d1d59b828a5142c327c054b
+"16.1. อัตราป่วยโรคหอบหืดจากการทำงาน"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format1.php&cat_id=f16421e617aed29602f9f09d951cce68&id=2e00d0fef1dffda3a605a76a9e06efc4
+"16.2. อัตราป่วยโรคหอบหืดจากการทำงาน จำแนกรายกลุ่มอายุ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=52be5959bdf9b16fdd4ac389a58d1261
+"16.3. จำนวนผู้ป่วยโรคหอบหืดจากการทำงาน จำแนกรายอาชีพ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format3.php&cat_id=f16421e617aed29602f9f09d951cce68&id=1174b3fc73bfdbe5d98fd60e11088591
+"17.1. อัตราป่วยโรคผิวหนังจากการทำงาน"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format1.php&cat_id=f16421e617aed29602f9f09d951cce68&id=d5f9c478e634aaf097c3ce8df2bad8e0
+"17.2. อัตราป่วยโรคผิวหนังจากการทำงาน จำแนกรายกลุ่มอายุ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=85df2a1cb4b03878972710ae5176405f
+"17.3. จำนวนผู้ป่วยโรคผิวหนังจากการทำงาน จำแนกอาชีพ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format3.php&cat_id=f16421e617aed29602f9f09d951cce68&id=6cfde9a4092128484a27605b6a60dc05
+"18.1. รายงานการตรวจคัดกรองสมรรถภาพการมองเห็น ในประชากรไทย อายุ 15-65 ปี"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format4envocc.php&cat_id=f16421e617aed29602f9f09d951cce68&id=3605521f75754b00e35237a69ccb0b7a
+"18.2. รายงานการตรวจคัดกรองสมรรถภาพทางการมองเห็นในประชากรไทย อายุ 15 - 65 ปี จำแนกรายอาชีพ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=bb1381959cab5bc17cf4449d46dfbee5
+"19.1. รายงานการตรวจคัดกรองสมรรถภาพทางปอด ในประชากรไทย อายุ 15-65 ปี"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format3envocc.php&cat_id=f16421e617aed29602f9f09d951cce68&id=991d9c1e47338d770a66f7b6ceef33ec
+"19.2. รายงานการตรวจคัดกรองสมรรถภาพทางปอด ในประชากรไทยอายุ 15 - 65 ปี จำแนกรายอาชีพ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=c418a00e23499eaf58dc397675b6e987
+"20.1. รายงานการตรวจเอ็กซเรย์ปอดฟิล์มใหญ่ในวัยทำงาน ในประชากรไทย อายุ 15 - 65 ปี"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format2envocc.php&cat_id=f16421e617aed29602f9f09d951cce68&id=c7caddce2bd0b6554024ab73c1f3fe52
+"20.2. รายงานการตรวจเอ็กซเรย์ปอดฟิล์มใหญ่ในวัยทำงานในประชากรไทย อายุ 15 - 65 ปี จำแนกรายอาชีพ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=835388c27d54c40deefef2b7a86b68cd
+"21.1. รายงานการตรวจคัดกรองเพื่อหาความเสี่ยงจากสารกำจัดศัตรูพืช ในประชากรไทย อายุ 15 ปีขึ้นไป"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1envocc.php&cat_id=f16421e617aed29602f9f09d951cce68&id=dd45886fb33ececf637145b7561ec244
+"21.2. รายงานการตรวจคัดกรองเพื่อหาความเสี่ยงจากสารกำจัดศัตรูพืช ในประชากรไทย อายุ 15 ปีขึ้นไป จำแนกรายอาชีพ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format2.php&cat_id=f16421e617aed29602f9f09d951cce68&id=62a103d3f937fedf4181651c4f549178

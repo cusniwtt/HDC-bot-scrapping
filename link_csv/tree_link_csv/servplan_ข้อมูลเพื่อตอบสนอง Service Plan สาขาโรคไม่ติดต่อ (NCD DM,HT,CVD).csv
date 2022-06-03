@@ -1,83 +1,44 @@
 ﻿name|url
-"
- 1.1. ร้อยละของประชากรอายุ 35 ปีขึ้นไปที่ได้รับการคัดกรองเพื่อวินิจฉัยเบาหวาน"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=626c89f6b8d9f7ed90c72c719775eb07
-"
- 1.2. ร้อยละของประชากรอายุ 35-59 ปีที่ได้รับการคัดกรองเพื่อวินิจฉัยเบาหวาน"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=c70689abe5b3efe5d085b8c3c30141f7
-"
- 1.3. ร้อยละของประชากรกลุ่มเสี่ยงเบาหวานในพื้นที่รับผิดชอบของปีที่ผ่านมาได้รับการตรวจน้ำตาลซ้ำ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=cc7ca5d68ea315208e2039d7c64792ce
-"
- 1.4. ร้อยละผู้ป่วยเบาหวานรายใหม่จากกลุ่มเสี่ยงเบาหวานปีที่ผ่านมา (Pre-DM)"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=d3aad6d7729c370287f43d1f094b3dd1
-"
- 1.5. ร้อยละการตรวจติดตามยืนยันวินิจฉัยกลุ่มสงสัยป่วยโรคเบาหวาน"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=e9e461e793e8258f47d46d6956f12832
-"
- 1.6. ร้อยละผู้ป่วยเบาหวานรายใหม่จากกลุ่มสงสัยป่วยที่ได้รับการตรวจยืนยัน"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=9cd87ceb6609d0183a3cfd2f0fd29553
-"
- 1.7. อัตราป่วยรายใหม่ของโรคเบาหวานต่อแสนประชากรในปีงบประมาณ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=eeeab22e386d32e7f5f5ecefebce0001
-"
- 1.8. ร้อยละของผู้ป่วยเบาหวานรายใหม่ลดลง"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=bf3fc18d99d7366fc8ee1978835a6865
-"
- 1.9. ร้อยละผู้ป่วยเบาหวานที่ขึ้นทะเบียน และได้รับการตรวจติดตามและรักษาที่เหมาะสม"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=e9fb648fe9f1858878714a410222eef1
-"
- 1.10. ร้อยละผู้ป่วยเบาหวานที่มีภาวะอ้วนลงพุง [รอบเอวมากกว่า (ส่วนสูง (ซม.)/2)]"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=fd0779ee615c2e4adcb73187a2cbc328
-"
- 1.11. ร้อยละของผู้ป่วยเบาหวานที่มีภาวะอ้วน [BMI >= 25 กก./ตร.ม.)] ลดลงจากงบประมาณที่ผ่านมา"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=735890fbb28aa2989052648af8cb4600
-"
- 1.12. ร้อยละของผู้ป่วยโรคเบาหวานที่ได้รับการตรวจ HbA1c อย่างน้อย 1 ครั้ง/ปี"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=fdc28cd7317936b7b734cec34103524c
-"
- 1.13. ร้อยละผู้ป่วยโรคเบาหวานที่ควบคุมระดับน้ำตาลได้ดี"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=137a726340e4dfde7bbbc5d8aeee3ac3
-"
- 1.14. ร้อยละของผู้ป่วยเบาหวานที่มีความดันโลหิตควบคุมได้ตามเกณฑ์"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=ac9019f14a00b66984dd9efc3afc06a6
-"
- 1.15. ร้อยละของผู้ป่วยเบาหวานที่ได้รับการตรวจไขมัน LDL"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=0f23318497737af76b19e98304dbcec7
-"
- 1.16. ร้อยละของผู้ป่วยเบาหวานที่ได้รับการตรวจไขมัน LDL และมีค่า LDL < 100 mg/dl"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=ab10d2cee3bd010cd0aab0148bbd0c6c
-"
- 1.17. ร้อยละของผู้ป่วยเบาหวานที่ได้รับการตรวจภาวะแทรกซ้อนทางตา"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=d0726b6e82496162f596395050cb6c8c
-"
- 1.18. ร้อยละของผู้ป่วยเบาหวานที่ได้รับการตรวจภาวะแทรกซ้อนทางเท้า"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=1932e7f6482a5e1e3c20b51927ef4adc
-"
- 1.19. ร้อยละของผู้ป่วยเบาหวานที่ยังไม่มีภาวะแทรกซ้อนทางไตได้รับการตรวจภาวะแทรกซ้อนทางไต"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=4787b961e9782d2de685bf65bb23b8f1
-"
- 1.20. ร้อยละของผู้ป่วยเบาหวานได้รับการตรวจภาวะแทรกซ้อนทางไต"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=151a52b8783f69e3a309c9f625a27e40
-"
- 1.21. ร้อยละของการเกิดภาวะแทรกซ้อนเฉียบพลันในผู้ป่วยเบาหวาน"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=b06544333648315e83c83445a62dd94e
-"
- 2.1. ร้อยละของประชากรอายุ 35 ปีขึ้นไปที่ได้รับการคัดกรองเพื่อวินิจฉัยความดันโลหิตสูง"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=9702fa28cd2ec73ecc6af89d14f46874
-"
- 2.2. ร้อยละของประชากรอายุ 35-59 ปีขึ้นไปที่ได้รับการคัดกรองเพื่อวินิจฉัยความดันโลหิตสูง
-"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=7a04770d641e649e3850f5df40deef05
-"
- 2.3. ร้อยละการตรวจติดตามยืนยันวินิจฉัยกลุ่มสงสัยป่วยโรคความดันโลหิตสูง"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=b57439ff27302ade8c38d1dd189644a4
-"
- 2.4. ร้อยละของผู้ป่วยความดันโลหิตสูงรายใหม่จากกลุ่มสงสัยป่วยที่ได้รับการตรวจติดตาม"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=200becbc2658dfc892a0b0ba661d7941
-"
- 2.5. ร้อยละของผู้ป่วยความดันโลหิตสูงรายใหม่จากผู้ที่มีระดับความดันโลหิตอยู่ในเกณฑ์เกือบสูง(กลุ่มเสี่ยงความดันโลหิตสูง)"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=e0d72f9ec9848a10b70f5872bb6830e8
-"
- 2.6. ร้อยละของผู้ที่มีความดันโลหิต ≥ 180/110 มม.ปรอท จากการคัดกรอง ได้รับการวินิจฉัย"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=fbd82877aceaa4367f8d33c59bc647d6
-"
- 2.7. อัตราป่วยรายใหม่ของโรคความดันโลหิตสูงต่อแสนประชากรในปีงบประมาณ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=29eec762c9591d1f8092da14c7462361
-"
- 2.8. ร้อยละผู้ป่วยความดันโลหิตสูงที่ขึ้นทะเบียน และมารับการรักษาในเขตพื้นที่รับผิดชอบ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=6d0c58de6b948dd0eac3c736c7584b59
-"
- 2.9. ร้อยละของผู้ป่วยความดันโลหิตสูงรายใหม่ลดลง"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=782a55168be311d76fa8b0d82d3fd8b9
-"
- 2.10. ร้อยละผู้ป่วยโรคความดันโลหิตสูงที่ควบคุมความดันโลหิตได้ดี"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=2e3813337b6b5377c2f68affe247d5f9
-"
- 3.1. ร้อยละของผู้ป่วยเบาหวาน ความดันโลหิตสูงที่ขึ้นทะเบียนได้รับการประเมินโอกาสเสี่ยงต่อโรคหัวใจและหลอดเลือด (CVD Risk) "|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=71cff4a5f828ddbe688784c2659abfe9
-"
- 3.2. อัตราผู้ป่วยเบาหวาน ความดันโลหิตสูงที่ขึ้นทะเบียนได้รับการประเมินโอกาสเสี่ยงต่อโรคหัวใจและหลอดเลือด (CVD Risk) จำแนกตาม Risk Score"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1color.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=1759fcc16f41cc2eaa2d6a8421892d65
-"
- 3.3. รายงานการเปลี่ยน SCORE ลดลงของกลุ่มเสี่ยงและเสี่ยงสูงต่อ CVD (SCORE 4,5) เปรียบเทียบรอบ 6 เดือน"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=6703e55c9b9f747752088355e9d2d610
-"
- 3.4. ร้อยละของผู้ป่วยเบาหวาน และ/หรือ ความดันโลหิตสูงที่มี CVD Risk ≥ 20% หลังได้รับการปรับเปลี่ยนความเสี่ยงแล้วมี CVD Risk ลดลง"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=cb65de9ec5fa4e5987b43da669b2280d
-"
- 9.1. ร้อยละผู้ป่วยนอกที่มีค่า SBP ≥ 180 mmHg และ/หรือ DBP ≥ 110 mmHg และยังไม่ได้รับการวินิจฉัยว่าเป็นโรคความดันโลหิตสูง (R03.0) และ/หรือได้รับการวินิจฉัยเป็นผู้ป่วยโรคความดันโลหิตสูง (I10 – I15) จากการค้นหาเชิงรุกในโรงพยาบาล"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=418ae93a872547ebe2fbf0ff4f73e65e
-"
- 9.2. ร้อยละผู้ป่วยนอกที่มีค่า SBP ≥ 180 mmHg และ/หรือ DBP ≥ 110 mmHg ที่ได้รับการวินิจฉัยเป็นผู้ป่วยโรคความดันโลหิตสูง (I10 – I15) จากการค้นหาเชิงรุกในโรงพยาบาล"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=df9a12ff1c86ab1b29b3e47118bcd535
-"
- 9.3. ร้อยละผู้ป่วยนอกที่มีค่า SBP ≥ 180 mmHg และ/หรือ DBP ≥ 110 mmHg ที่ได้รับการวินิจฉัยเป็นผู้ป่วยโรคความดันโลหิตสูง (I10 – I15) จากกลุ่มที่ยังไม่ได้รับการวินิจฉัยว่าเป็นโรคความดันโลหิตสูง (R03.0) ในโรงพยาบาล"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=926d358e3527fba253d306f18bac1b16
-|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=752f4de6e90d3e41b3cb8f8104b2e8bd
-|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=d5d8c4ae88e070d81b15dd4ed51294f3
-|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=6092a1b651092b6b8a3f1ff374e3f46a
-|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=12f733a3842f9039c809968779faa971
-|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=5be1e3bbeef8b86326a6c63b2d977c55
+"1.1. ร้อยละของประชากรอายุ 35 ปีขึ้นไปที่ได้รับการคัดกรองเพื่อวินิจฉัยเบาหวาน"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=626c89f6b8d9f7ed90c72c719775eb07
+"1.2. ร้อยละของประชากรอายุ 35-59 ปีที่ได้รับการคัดกรองเพื่อวินิจฉัยเบาหวาน"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=c70689abe5b3efe5d085b8c3c30141f7
+"1.3. ร้อยละของประชากรกลุ่มเสี่ยงเบาหวานในพื้นที่รับผิดชอบของปีที่ผ่านมาได้รับการตรวจน้ำตาลซ้ำ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=cc7ca5d68ea315208e2039d7c64792ce
+"1.4. ร้อยละผู้ป่วยเบาหวานรายใหม่จากกลุ่มเสี่ยงเบาหวานปีที่ผ่านมา (Pre-DM)"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=d3aad6d7729c370287f43d1f094b3dd1
+"1.5. ร้อยละการตรวจติดตามยืนยันวินิจฉัยกลุ่มสงสัยป่วยโรคเบาหวาน"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=e9e461e793e8258f47d46d6956f12832
+"1.6. ร้อยละผู้ป่วยเบาหวานรายใหม่จากกลุ่มสงสัยป่วยที่ได้รับการตรวจยืนยัน"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=9cd87ceb6609d0183a3cfd2f0fd29553
+"1.7. อัตราป่วยรายใหม่ของโรคเบาหวานต่อแสนประชากรในปีงบประมาณ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=eeeab22e386d32e7f5f5ecefebce0001
+"1.8. ร้อยละของผู้ป่วยเบาหวานรายใหม่ลดลง"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=bf3fc18d99d7366fc8ee1978835a6865
+"1.9. ร้อยละผู้ป่วยเบาหวานที่ขึ้นทะเบียน และได้รับการตรวจติดตามและรักษาที่เหมาะสม"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=e9fb648fe9f1858878714a410222eef1
+"1.10. ร้อยละผู้ป่วยเบาหวานที่มีภาวะอ้วนลงพุง [รอบเอวมากกว่า (ส่วนสูง (ซม.)/2)]"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=fd0779ee615c2e4adcb73187a2cbc328
+"1.11. ร้อยละของผู้ป่วยเบาหวานที่มีภาวะอ้วน [BMI >= 25 กก./ตร.ม.)] ลดลงจากงบประมาณที่ผ่านมา"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=735890fbb28aa2989052648af8cb4600
+"1.12. ร้อยละของผู้ป่วยโรคเบาหวานที่ได้รับการตรวจ HbA1c อย่างน้อย 1 ครั้ง/ปี"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=fdc28cd7317936b7b734cec34103524c
+"1.13. ร้อยละผู้ป่วยโรคเบาหวานที่ควบคุมระดับน้ำตาลได้ดี"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=137a726340e4dfde7bbbc5d8aeee3ac3
+"1.14. ร้อยละของผู้ป่วยเบาหวานที่มีความดันโลหิตควบคุมได้ตามเกณฑ์"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=ac9019f14a00b66984dd9efc3afc06a6
+"1.15. ร้อยละของผู้ป่วยเบาหวานที่ได้รับการตรวจไขมัน LDL"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=0f23318497737af76b19e98304dbcec7
+"1.16. ร้อยละของผู้ป่วยเบาหวานที่ได้รับการตรวจไขมัน LDL และมีค่า LDL < 100 mg/dl"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=ab10d2cee3bd010cd0aab0148bbd0c6c
+"1.17. ร้อยละของผู้ป่วยเบาหวานที่ได้รับการตรวจภาวะแทรกซ้อนทางตา"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=d0726b6e82496162f596395050cb6c8c
+"1.18. ร้อยละของผู้ป่วยเบาหวานที่ได้รับการตรวจภาวะแทรกซ้อนทางเท้า"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=1932e7f6482a5e1e3c20b51927ef4adc
+"1.19. ร้อยละของผู้ป่วยเบาหวานที่ยังไม่มีภาวะแทรกซ้อนทางไตได้รับการตรวจภาวะแทรกซ้อนทางไต"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=4787b961e9782d2de685bf65bb23b8f1
+"1.20. ร้อยละของผู้ป่วยเบาหวานได้รับการตรวจภาวะแทรกซ้อนทางไต"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=151a52b8783f69e3a309c9f625a27e40
+"1.21. ร้อยละของการเกิดภาวะแทรกซ้อนเฉียบพลันในผู้ป่วยเบาหวาน"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=b06544333648315e83c83445a62dd94e
+"2.1. ร้อยละของประชากรอายุ 35 ปีขึ้นไปที่ได้รับการคัดกรองเพื่อวินิจฉัยความดันโลหิตสูง"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=9702fa28cd2ec73ecc6af89d14f46874
+"2.2. ร้อยละของประชากรอายุ 35-59 ปีขึ้นไปที่ได้รับการคัดกรองเพื่อวินิจฉัยความดันโลหิตสูง"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=7a04770d641e649e3850f5df40deef05
+"2.3. ร้อยละการตรวจติดตามยืนยันวินิจฉัยกลุ่มสงสัยป่วยโรคความดันโลหิตสูง"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=b57439ff27302ade8c38d1dd189644a4
+"2.4. ร้อยละของผู้ป่วยความดันโลหิตสูงรายใหม่จากกลุ่มสงสัยป่วยที่ได้รับการตรวจติดตาม"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=200becbc2658dfc892a0b0ba661d7941
+"2.5. ร้อยละของผู้ป่วยความดันโลหิตสูงรายใหม่จากผู้ที่มีระดับความดันโลหิตอยู่ในเกณฑ์เกือบสูง(กลุ่มเสี่ยงความดันโลหิตสูง)"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=e0d72f9ec9848a10b70f5872bb6830e8
+"2.6. ร้อยละของผู้ที่มีความดันโลหิต ≥ 180/110 มม.ปรอท จากการคัดกรอง ได้รับการวินิจฉัย"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=fbd82877aceaa4367f8d33c59bc647d6
+"2.7. อัตราป่วยรายใหม่ของโรคความดันโลหิตสูงต่อแสนประชากรในปีงบประมาณ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=29eec762c9591d1f8092da14c7462361
+"2.8. ร้อยละผู้ป่วยความดันโลหิตสูงที่ขึ้นทะเบียน และมารับการรักษาในเขตพื้นที่รับผิดชอบ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=6d0c58de6b948dd0eac3c736c7584b59
+"2.9. ร้อยละของผู้ป่วยความดันโลหิตสูงรายใหม่ลดลง"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=782a55168be311d76fa8b0d82d3fd8b9
+"2.10. ร้อยละผู้ป่วยโรคความดันโลหิตสูงที่ควบคุมความดันโลหิตได้ดี"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=2e3813337b6b5377c2f68affe247d5f9
+"3.1. ร้อยละของผู้ป่วยเบาหวาน ความดันโลหิตสูงที่ขึ้นทะเบียนได้รับการประเมินโอกาสเสี่ยงต่อโรคหัวใจและหลอดเลือด (CVD Risk) "|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=71cff4a5f828ddbe688784c2659abfe9
+"3.2. อัตราผู้ป่วยเบาหวาน ความดันโลหิตสูงที่ขึ้นทะเบียนได้รับการประเมินโอกาสเสี่ยงต่อโรคหัวใจและหลอดเลือด (CVD Risk) จำแนกตาม Risk Score"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1color.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=1759fcc16f41cc2eaa2d6a8421892d65
+"3.3. รายงานการเปลี่ยน SCORE ลดลงของกลุ่มเสี่ยงและเสี่ยงสูงต่อ CVD (SCORE 4,5) เปรียบเทียบรอบ 6 เดือน"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=6703e55c9b9f747752088355e9d2d610
+"3.4. ร้อยละของผู้ป่วยเบาหวาน และ/หรือ ความดันโลหิตสูงที่มี CVD Risk ≥ 20% หลังได้รับการปรับเปลี่ยนความเสี่ยงแล้วมี CVD Risk ลดลง"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=cb65de9ec5fa4e5987b43da669b2280d
+"4. อัตราผู้ป่วยความดันโลหิตสูงและเบาหวานรายใหม่"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=418ae93a872547ebe2fbf0ff4f73e65e
+"5. ร้อยละของผู้ป่วยโรคเบาหวานและโรคความดันโลหิตสูงที่ควบคุมได้"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=df9a12ff1c86ab1b29b3e47118bcd535
+"6. ร้อยละของผู้ป่วยเบาหวาน และ/หรือ ความดันโลหิตสูงที่ปัจจุบันยังสูบบุหรี่ลดลงจากปีงบประมาณที่ผ่านมา"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=926d358e3527fba253d306f18bac1b16
+"7. ร้อยละของผู้ป่วยเบาหวาน และ/หรือ ความดันโลหิตสูง ที่เป็น CKD 3-4 ชะลอการลดลงของ eGFR ได้ตามเป้าหมาย"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=752f4de6e90d3e41b3cb8f8104b2e8bd
+"8. ร้อยละของผู้ป่วยเบาหวาน และ/หรือ ความดันโลหิตสูงที่เป็น CKD 1-4 และได้รับยา ACEi/ARB"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=d5d8c4ae88e070d81b15dd4ed51294f3
+"9.1. ร้อยละผู้ป่วยนอกที่มีค่า SBP ≥ 180 mmHg และ/หรือ DBP ≥ 110 mmHg และยังไม่ได้รับการวินิจฉัยว่าเป็นโรคความดันโลหิตสูง (R03.0) และ/หรือได้รับการวินิจฉัยเป็นผู้ป่วยโรคความดันโลหิตสูง (I10 - I15) จากการค้นหาเชิงรุกในโรงพยาบาล"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=6092a1b651092b6b8a3f1ff374e3f46a
+"9.2. ร้อยละผู้ป่วยนอกที่มีค่า SBP ≥ 180 mmHg และ/หรือ DBP ≥ 110 mmHg ที่ได้รับการวินิจฉัยเป็นผู้ป่วยโรคความดันโลหิตสูง (I10 - I15) จากการค้นหาเชิงรุกในโรงพยาบาล"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=12f733a3842f9039c809968779faa971
+"9.3. ร้อยละผู้ป่วยนอกที่มีค่า SBP ≥ 180 mmHg และ/หรือ DBP ≥ 110 mmHg ที่ได้รับการวินิจฉัยเป็นผู้ป่วยโรคความดันโลหิตสูง (I10 - I15) จากกลุ่มที่ยังไม่ได้รับการวินิจฉัยว่าเป็นโรคความดันโลหิตสูง (R03.0) ในโรงพยาบาล"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=b2b59e64c4e6c92d4b1ec16a599d882b&id=5be1e3bbeef8b86326a6c63b2d977c55

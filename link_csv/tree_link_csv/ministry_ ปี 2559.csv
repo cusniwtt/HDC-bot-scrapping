@@ -1,10 +1,4 @@
 ﻿name|url
-"
-3. ร้อยละของเด็กนักเรียนมีภาวะเริ่มอ้วนและอ้วน"|"https://hdcservice.moph.go.th/hdc/reports/report_kpi.php?flag_kpi_level=1
-			&flag_kpi_year=2016&source=kpi/kpi_2phase.php&id=84a825d9c4839c92dff27830725a8047"
-"
-6. ความชุกผู้บริโภคเครื่องดื่มแอลกอฮอล์ในประชากรอายุ 15 - 19 ปี3,662,542   12,294   0.34 "|"https://hdcservice.moph.go.th/hdc/reports/report_kpi.php?flag_kpi_level=1
-			&flag_kpi_year=2016&source=kpi/kpi_dent.php&id=68345e9bd757bdbf07d0d7fc71bee68f"
-"
-7. ร้อยละการส่งต่อผู้ป่วยนอกเขตสุขภาพลดลง"|"https://hdcservice.moph.go.th/hdc/reports/report_kpi.php?flag_kpi_level=1
-			&flag_kpi_year=2016&source=formated/referout_kpi.php&id=38e40477e601acfba24653ceb9021cd4"
+"3. ร้อยละของเด็กนักเรียนมีภาวะเริ่มอ้วนและอ้วน"|https://hdcservice.moph.go.th/hdc/reports/report_kpi.php?flag_kpi_level=1&flag_kpi_year=2016&source=kpi/kpi_2phase.php&id=84a825d9c4839c92dff27830725a8047
+"6. ความชุกผู้บริโภคเครื่องดื่มแอลกอฮอล์ในประชากรอายุ 15 - 19 ปี"|https://hdcservice.moph.go.th/hdc/reports/report_kpi.php?flag_kpi_level=1&flag_kpi_year=2016&source=kpi/kpi_dent.php&id=68345e9bd757bdbf07d0d7fc71bee68f
+"7. ร้อยละการส่งต่อผู้ป่วยนอกเขตสุขภาพลดลง"|https://hdcservice.moph.go.th/hdc/reports/report_kpi.php?flag_kpi_level=1&flag_kpi_year=2016&source=formated/referout_kpi.php&id=38e40477e601acfba24653ceb9021cd4

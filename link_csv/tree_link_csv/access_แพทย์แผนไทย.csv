@@ -1,59 +1,30 @@
 ﻿name|url
-"
- 1.1. การวินิจฉัยโรคด้านการแพทย์แผนไทย"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=4179096367989787c47c3a05bc357cc6
-"
- 1.2. ปริมาณการจ่ายยาสมุนไพร"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=65a9f9496401d91402b3cb38805bb4d6
-"
- 1.3. การจ่ายยาสมุนไพรจำแนกตามอายุและเพศ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=daa4f09de05917f530445267a017e1c4
-"
- 1.4. อันดับการใช้ยาสมุนไพร"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format2.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=8d38925724b0bbb4b11844b18df088e4
-"
- 1.5. การจ่ายยาสมุนไพรตามบัญชียาหลักแห่งชาติ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=c8708c987b1400ceacfa02a1bd272a18
-"
- 1.6. มูลค่าการใช้ยาสมุนไพร"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=18576644ee6ec12c24b8d307535fa140
-"
- 1.7. การบริการแผนไทย นวด อบ ประคบ  "|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=9615f70d993b1b673fbe65ae958a59fc
-"
- 1.8. การบริบาลหญิงหลังคลอด"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=0e82dff847a700596572b4e921ffe068
-"
- 1.9. การส่งเสริมสุขภาพแพทย์แผนไทยและแพทย์ทางเลือก"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=41763dd9ce26111d374a67e0c1631cd0
-"
- 1.10. สัดส่วนการให้บริการแพทย์แผนไทย ของ สปสช."|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=f59b7cba9cf1b83320b9fb9c6a18046b
-"
- 1.11. ร้อยละของผู้ป่วยนอกได้รับบริการการแพทย์แผนไทยและการแพทย์ทางเลือก [นับรวมแผนจีน(U78x - U79x) และส่งเสริมป้องกันทั้งหมด]"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=4bd243de1e007bf9c7aa7cc799a1a01c
-"
- 1.12. ร้อยละของผู้ป่วยนอกได้รับบริการการแพทย์แผนไทยและการแพทย์ทางเลือก [นับรวมแผนจีน(U78x - U79x) แต่ไม่นับรวม U77x]"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=50980b81323b2978d9ed4c4b353c58bc
-"
- 1.13. ร้อยละของผู้ป่วยนอกได้รับบริการการแพทย์แผนไทยและการแพทย์ทางเลือก [นับรวมแผนจีน(U78x - U79x) แต่ไม่นับรวม U77x และหัตถการส่งเสริมป้องกัน]"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=da942d421baf1cb9ec7754f6f5a1228d
-"
- 1.14. ร้อยละของผู้ป่วยนอกได้รับบริการการแพทย์แผนไทย และการแพทย์ทางเลือก [นับรวมแผนจีน(U78x - U79x) และการเยี่ยมบ้านแผนไทย แต่ไม่นับรวม U77x และหัตถการส่งเสริมป้องกัน]"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=cc5533d620fca429df8b9b18dafebffd
-"
- 1.15. ร้อยละของผู้ป่วยนอกได้รับบริการการแพทย์แผนไทยและการแพทย์ทางเลือก [นับรวมแผนจีน(U78x - U79x) และส่งเสริมป้องกันทั้งหมด] ปรับตัวหาร"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=7b2690effce6039024245992283f640e
-"
- 1.16. ร้อยละของผู้ป่วยนอกได้รับบริการการแพทย์แผนไทยและการแพทย์ทางเลือก [นับรวมแผนจีน(U78x - U79x) แต่ไม่นับรวม U77x] ปรับตัวหาร"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=4db362c3c0c8ed7642ffeccbf7df5255
-"
- 1.17. อันดับการวินิจฉัยโรคที่มีการเยี่ยมบ้านแพทย์แผนไทย"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format2.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=7a1289a0448aa28eb5b202042957e239
-"
- 1.18. อันดับการเยี่ยมบ้านแพทย์แผนไทย จำแนกตามกิจกรรม"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format2.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=96802b65b325390dcd2e5ab508fc0877
-"
- 1.19. ปริมาณการใช้ยาสมุนไพร เทียบกับจานวนการสั่งจ่ายยาทั้งหมด"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=ca51496ce4f8076a0b67b72c1496d58e
-"
- 2.1. การวินิจฉัยโรคด้านการแพทย์แผนไทย"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=f9cda9b0ab5b6eba0d2b944dc0b8046b
-"
- 2.2. ปริมาณการจ่ายยาสมุนไพร"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=ba95e1e924c5d9334cc2de32934d8933
-"
- 2.3. การจ่ายยาสมุนไพรจำแนกตามอายุและเพศ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=c7a4b985210941c889c2562bb3fb0473
-"
- 2.4. อันดับการใช้ยาสมุนไพร"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format2.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=7a64f582e844fee993875614dfe6f8f3
-"
- 2.5. การจ่ายยาสมุนไพรตามบัญชียาหลักแห่งชาติ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=dacc0f6057eba8af7a19d18cfb8d4a1c
-"
- 2.6. มูลค่าการใช้ยาสมุนไพร"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=1cacd2a0968f56b89d564ac3481a305a
-"
- 2.7. การบริการแผนไทย นวด อบ ประคบ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=dfe596f413457c9877531e6030843912
-"
- 2.8. การบริบาลหญิงหลังคลอด"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=cc19a2620bb81596cca0cfaa1d41f9fd
-"
- 2.9. การส่งเสริมสุขภาพแพทย์แผนไทยและแพทย์ทางเลือก"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=bbcfa485f62abef2e73ab3002f7f6529
-"
- 2.10. สัดส่วนการให้บริการแพทย์แผนไทย รายปีงบประมาณ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=6a148a251f50d70fbe14da21aa5d7d35
+"1.1. การวินิจฉัยโรคด้านการแพทย์แผนไทย"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=4179096367989787c47c3a05bc357cc6
+"1.2. ปริมาณการจ่ายยาสมุนไพร"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=65a9f9496401d91402b3cb38805bb4d6
+"1.3. การจ่ายยาสมุนไพรจำแนกตามอายุและเพศ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=daa4f09de05917f530445267a017e1c4
+"1.4. อันดับการใช้ยาสมุนไพร"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format2.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=8d38925724b0bbb4b11844b18df088e4
+"1.5. การจ่ายยาสมุนไพรตามบัญชียาหลักแห่งชาติ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=c8708c987b1400ceacfa02a1bd272a18
+"1.6. มูลค่าการใช้ยาสมุนไพร"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=18576644ee6ec12c24b8d307535fa140
+"1.7. การบริการแผนไทย นวด อบ ประคบ  "|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=9615f70d993b1b673fbe65ae958a59fc
+"1.8. การบริบาลหญิงหลังคลอด"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=0e82dff847a700596572b4e921ffe068
+"1.9. การส่งเสริมสุขภาพแพทย์แผนไทยและแพทย์ทางเลือก"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=41763dd9ce26111d374a67e0c1631cd0
+"1.10. สัดส่วนการให้บริการแพทย์แผนไทย ของ สปสช."|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=f59b7cba9cf1b83320b9fb9c6a18046b
+"1.11. ร้อยละของผู้ป่วยนอกได้รับบริการการแพทย์แผนไทยและการแพทย์ทางเลือก [นับรวมแผนจีน(U78x - U79x) และส่งเสริมป้องกันทั้งหมด]"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=4bd243de1e007bf9c7aa7cc799a1a01c
+"1.12. ร้อยละของผู้ป่วยนอกได้รับบริการการแพทย์แผนไทยและการแพทย์ทางเลือก [นับรวมแผนจีน(U78x - U79x) แต่ไม่นับรวม U77x]"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=50980b81323b2978d9ed4c4b353c58bc
+"1.13. ร้อยละของผู้ป่วยนอกได้รับบริการการแพทย์แผนไทยและการแพทย์ทางเลือก [นับรวมแผนจีน(U78x - U79x) แต่ไม่นับรวม U77x และหัตถการส่งเสริมป้องกัน]"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=da942d421baf1cb9ec7754f6f5a1228d
+"1.14. ร้อยละของผู้ป่วยนอกได้รับบริการการแพทย์แผนไทย และการแพทย์ทางเลือก [นับรวมแผนจีน(U78x - U79x) และการเยี่ยมบ้านแผนไทย แต่ไม่นับรวม U77x และหัตถการส่งเสริมป้องกัน]"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=cc5533d620fca429df8b9b18dafebffd
+"1.15. ร้อยละของผู้ป่วยนอกได้รับบริการการแพทย์แผนไทยและการแพทย์ทางเลือก [นับรวมแผนจีน(U78x - U79x) และส่งเสริมป้องกันทั้งหมด] ปรับตัวหาร"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=7b2690effce6039024245992283f640e
+"1.16. ร้อยละของผู้ป่วยนอกได้รับบริการการแพทย์แผนไทยและการแพทย์ทางเลือก [นับรวมแผนจีน(U78x - U79x) แต่ไม่นับรวม U77x] ปรับตัวหาร"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=4db362c3c0c8ed7642ffeccbf7df5255
+"1.17. อันดับการวินิจฉัยโรคที่มีการเยี่ยมบ้านแพทย์แผนไทย"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format2.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=7a1289a0448aa28eb5b202042957e239
+"1.18. อันดับการเยี่ยมบ้านแพทย์แผนไทย จำแนกตามกิจกรรม"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format2.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=96802b65b325390dcd2e5ab508fc0877
+"1.19. ปริมาณการใช้ยาสมุนไพร เทียบกับจานวนการสั่งจ่ายยาทั้งหมด"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=ca51496ce4f8076a0b67b72c1496d58e
+"2.1. การวินิจฉัยโรคด้านการแพทย์แผนไทย"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=f9cda9b0ab5b6eba0d2b944dc0b8046b
+"2.2. ปริมาณการจ่ายยาสมุนไพร"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=ba95e1e924c5d9334cc2de32934d8933
+"2.3. การจ่ายยาสมุนไพรจำแนกตามอายุและเพศ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=c7a4b985210941c889c2562bb3fb0473
+"2.4. อันดับการใช้ยาสมุนไพร"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format2.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=7a64f582e844fee993875614dfe6f8f3
+"2.5. การจ่ายยาสมุนไพรตามบัญชียาหลักแห่งชาติ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=dacc0f6057eba8af7a19d18cfb8d4a1c
+"2.6. มูลค่าการใช้ยาสมุนไพร"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=1cacd2a0968f56b89d564ac3481a305a
+"2.7. การบริการแผนไทย นวด อบ ประคบ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=dfe596f413457c9877531e6030843912
+"2.8. การบริบาลหญิงหลังคลอด"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=cc19a2620bb81596cca0cfaa1d41f9fd
+"2.9. การส่งเสริมสุขภาพแพทย์แผนไทยและแพทย์ทางเลือก"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=bbcfa485f62abef2e73ab3002f7f6529
+"2.10. สัดส่วนการให้บริการแพทย์แผนไทย รายปีงบประมาณ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=30bc6364fc06a33a7802e16bc596ac3b&id=6a148a251f50d70fbe14da21aa5d7d35
