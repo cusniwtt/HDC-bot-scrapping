@@ -41,7 +41,7 @@ def list_group_box(path, name, url):
     df_urls = pd.DataFrame(urls, columns=['url'])           #Create dataframe for urls
     df = pd.concat([df_names, df_urls], axis=1)             #Concat dataframe
 
-    df.to_csv('link_csv/tree_link_csv/{}_{}.csv'.format(path, name), sep='|', index=False)
+    df.to_csv('link_csv/tree_link_csv/{}_{}.csv'.format(path, name), sep='|', index=False, encoding='utf-8-sig')         #Save dataframe to csv file
 
     return print('{}.csv created in tree_link_csv'.format(name))
 

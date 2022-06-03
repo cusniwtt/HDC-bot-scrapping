@@ -44,5 +44,5 @@ list_df = [df_info, df_state, df_access, df_defend, df_servplan, df_ministry, df
 list_name = ['info', 'state', 'access', 'defend', 'servplan', 'ministry', 'NCD']        #create list of name for loop
 
 for i in range(len(list_df)):
-    list_df[i].to_csv('link_csv/{}.csv'.format(list_name[i]), sep='|', index=False)
+    list_df[i].to_csv('link_csv/{}.csv'.format(list_name[i]), sep='|', index=False, encoding='utf-8-sig')
     print('{}.csv created in link_csv'.format(list_name[i]))

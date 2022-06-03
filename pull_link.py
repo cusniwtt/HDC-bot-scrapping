@@ -30,4 +30,4 @@ df = pd.concat([df_names, df_urls], axis=1)             #Concat dataframe
 
 print(df.head(10))
 
-df.to_csv('link_csv/All_link.csv', sep='|', index=False)         #Save dataframe to csv file
+df.to_csv('link_csv/All_link.csv', sep='|', index=False, encoding='utf-8-sig')         #Save dataframe to csv file
