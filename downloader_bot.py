@@ -26,8 +26,23 @@ def rename_file(name):
     for i in range(10):
         os.rename(new[i], 'D:/GitHub/HDC-bot-scrapping/dataset/{}_{}.csv'.format(name, year[i]))
 
-#Defind function to get year from url
-def get_year(url):
+#For create log file
+def write_log(name):
+    log = open('dataset\log.txt', 'a')
+    log.write('{} \n'.format(name))
+    log.close()
+
+#Defind Function to check slash and replace it with 'or'
+def check_slash(name):
+	for i in range(len(name)):
+		if name[i] == '/':
+			first = name[:i]
+			last = name[i+1:]
+			name = first + ' or ' + last
+	return name
+
+#Create BOT to click download button
+def bot(url):
     driver = wd.Edge('edgedriver_win64\msedgedriver.exe')
     driver.get(url)
 
@@ -64,22 +79,27 @@ def get_year(url):
 #Get path of csv file
 csv_path = [f for f in listdir('link_csv/tree_link_csv') if isfile(join('link_csv/tree_link_csv', f))]
 
-#name = '1. รายงานสรุป CMI'
-#get_year('https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=833e9779725ef96bc06926d8ba4e4c04&id=ce331927a984726e907d00396cacda4d')
-#rename_file(name)
-
 n = 0
 for path in csv_path:
     df = pd.read_csv('link_csv/tree_link_csv/{}'.format(path), sep='|')
 
+    write_log('############################################################')
+    write_log(path)
+    write_log('############################################################')
     print('This is download file from {}'.format(path))
 
     for i in range(df.shape[0]):
         name = df.iloc[i][0]
         url = df.iloc[i][1]
+
+        write_log(name)
         print(name)
         print(url)
         n = n + 1
 
 print(n)
 print(len(csv_path))
+
+#name = '1. รายงานสรุป CMI'
+#bot('https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=833e9779725ef96bc06926d8ba4e4c04&id=ce331927a984726e907d00396cacda4d')
+#rename_file(name)
