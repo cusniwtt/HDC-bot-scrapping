@@ -23,7 +23,7 @@ def rename_file(url_path, name):
     new = first + back
     print(new)
 
-    for i in range(10):
+    for i in range(len(new)):
         os.rename(new[i], 'C:/Users/USER/Downloads/dataset/{}_{}_{}.csv'.format(url_path, name, year[i]))
 
 #For create log file
@@ -64,13 +64,14 @@ def bot(url):
         year_option.click()
         ok_btn = driver.find_element_by_xpath('//*[@id="btnOkey"]') #click OK to query
         ok_btn.click()
-        time.sleep(10)      #Wait for query
+        time.sleep(9)      #Wait for query
 
         dl_btn = driver.find_element_by_xpath('//*[@id="save-icon"]/button')    #Click Download button
         dl_btn.click()
 
         csv_btn = driver.find_element_by_xpath('//*[@id="save-icon"]/ul/li[1]/a')   #Download csv file
         csv_btn.click()
+        time.sleep(1)
 
 #Get path of csv file
 csv_path = [f for f in listdir('link_csv/tree_link_csv') if isfile(join('link_csv/tree_link_csv', f))]
