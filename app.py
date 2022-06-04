@@ -1,3 +1,8 @@
+from downloader_bot import bot
+from downloader_bot import check_slash
+from downloader_bot import rename_file
+from downloader_bot import write_log
+
 #Get path of csv file
 csv_path = [f for f in listdir('link_csv/tree_link_csv') if isfile(join('link_csv/tree_link_csv', f))]
 
@@ -13,8 +18,8 @@ for path in csv_path:       #Loop for each file in csv_path
 
     #Loop for each row in df that create from path
     for i in range(df.shape[0]):
-        name = df.iloc[i][0]        #Get name of url
-        url = df.iloc[i][1]         #Get url
+        name = str(df.iloc[i][0])        #Get name of url
+        url = str(df.iloc[i][1])         #Get url
 
         #Check slash and replace it with 'or'
         name = check_slash(name)

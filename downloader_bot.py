@@ -21,7 +21,6 @@ def rename_file(url_path, name):
     first = new_name[9:]
     back = new_name[:9]
     new = first + back
-    print(new)
 
     for i in range(len(new)):
         os.rename(new[i], 'C:/Users/USER/Downloads/dataset/{}_{}_{}.csv'.format(url_path[:-4], name, year[i]))
