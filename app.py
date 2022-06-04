@@ -20,6 +20,7 @@ for path in csv_path:       #Loop for each file in csv_path
     parent_dir = 'C:/Users/USER/Downloads/Dataset/'
     dir_path = os.path.join(parent_dir, path[:-4])
     os.mkdir(dir_path)
+    print('Create directory: {}'.format(dir_path))
 
     #Create Header of log by path of csv_path
     write_log('############################################################')
