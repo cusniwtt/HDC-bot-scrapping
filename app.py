@@ -3,12 +3,23 @@ from downloader_bot import check_slash
 from downloader_bot import rename_file
 from downloader_bot import write_log
 
+import pandas as pd
+import numpy as np
+from os import listdir
+from os.path import isfile, join
+import os
+
+
 #Get path of csv file
 csv_path = [f for f in listdir('link_csv/tree_link_csv') if isfile(join('link_csv/tree_link_csv', f))]
 
 n = 0       #Set initial of amount file
 for path in csv_path:       #Loop for each file in csv_path
     df = pd.read_csv('link_csv/tree_link_csv/{}'.format(path), sep='|')
+    #Create sub directory
+    parent_dir = 'C:/Users/USER/Downloads/Dataset/'
+    dir_path = os.path.join(parent_dir, path[:-4])
+    os.mkdir(dir_path)
 
     #Create Header of log by path of csv_path
     write_log('############################################################')

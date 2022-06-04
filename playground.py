@@ -3,13 +3,35 @@ from downloader_bot import check_slash
 from downloader_bot import rename_file
 from downloader_bot import write_log
 
-name = '6. ร้อยละผู้ป่วยที่มีความผิดปกติทางจิตและพฤติกรรมที่เกิดจากการใช้สารออกฤทธิ์ต่อจิตประสาท จากระบบฐานข้อมูล บสต. และฐานข้อมูลจิตเวชในระบบ HDC ที่มีพฤติกรรมก่อความรุนแรง (SMI-V)'
-url = 'https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format2.php&cat_id=0eb953d9735a9625ac19acfa5ebcd368&id=a43ee80c26a6f051785deecce89a931c'
+import pandas as pd
+import numpy as np
+import os
+from os import listdir
+from os.path import isfile, join
 
-check_slash(name)
+#Get path of csv file
+csv_path = [f for f in listdir('link_csv/tree_link_csv') if isfile(join('link_csv/tree_link_csv', f))]
+for path in csv_path:
+	if 'access_การบำบัดรักษาและฟื้นฟูผู้ติดยาเสพติดจากระบบ_บสต.csv' == path:
+			df = pd.read_csv('link_csv/tree_link_csv/{}'.format(path), sep='|')
+			#Create sub directory
+			parent_dir = 'C:/Users/USER/Downloads/Dataset/'
+			dir_path = os.path.join(parent_dir, path[:-4])
+			os.mkdir(dir_path)
 
-bot(url)
+			#Loop for each row in df that create from path
+			for i in range(df.shape[0]):
+				name = str(df.iloc[i][0])
+				url = str(df.iloc[i][1])
 
-rename_file('access.csv', name)
+				#Check slash and replace it with 'or'
+				name = check_slash(name)
 
-write_log(name)
+				#run bot to download file
+				bot(url)
+
+				#rename file csv that bot download at last
+				rename_file(dir_path, name)
+
+				#Create log of file that bot download is complete
+				write_log(name)

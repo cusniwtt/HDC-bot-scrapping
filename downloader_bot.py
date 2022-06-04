@@ -10,7 +10,7 @@ import time
 import os
 
 #Defind function to rename file csv
-def rename_file(url_path, name):
+def rename_file(dir_path, name):
     year = ['2565', '2564', '2563', '2562', '2561', '2560', '2559', '2558', '2557', '2556']
     csv_path = [f for f in listdir('C:/Users/USER/Downloads') if isfile(join('C:/Users/USER/Downloads', f))]
     new_name = []
@@ -23,7 +23,12 @@ def rename_file(url_path, name):
     new = first + back
 
     for i in range(len(new)):
-        os.rename(new[i], 'C:/Users/USER/Downloads/dataset/{}_{}_{}.csv'.format(url_path[:-4], name, year[i]))
+        #Create save path
+        save_name = str('/' + name + '__' + year[i] + '.csv')
+        save_path = dir_path + save_name
+
+        #Save file to dataset folder
+        os.rename(new[i], save_path)
 
 #For create log file
 def write_log(name):
