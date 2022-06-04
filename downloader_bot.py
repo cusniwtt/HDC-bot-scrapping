@@ -1,8 +1,3 @@
-import csv
-from bs4 import BeautifulSoup as bs
-import requests as rq
-import pandas as pd
-import numpy as np
 from os import listdir
 from os.path import isfile, join
 from selenium import webdriver as wd
