@@ -14,13 +14,13 @@ from selenium import webdriver as wd
 import time
 import os
 
-df = pd.read_csv('link_csv/tree_link_csv/defend_การคัดกรอง.csv', sep='|')
-max = 15
-row = 15
+df = pd.read_csv('link_csv/tree_link_csv/defend_งานโภชนาการ.csv', sep='|')
+max = 35
+row = 5
 
 name = df.iloc[row-1][0]
 url = df.iloc[row-1][1]
-save_dir = 'C:/Users/USER/Downloads/Dataset/defend_การคัดกรอง'
+save_dir = 'C:/Users/USER/Downloads/Dataset/defend_งานโภชนาการ'
 #Check slash and replace it with 'or'
 name = check_slash(name)
 #run bot to download file

@@ -34,7 +34,7 @@ def app(path):
         name = check_slash(name)
 
         #run bot to download file
-        bot(url, 11)
+        bot(url, 10)
 
         #rename file csv that bot download at last
         rename_file(dir_path, name)
@@ -48,8 +48,8 @@ def app(path):
 csv_path = [f for f in listdir('link_csv/tree_link_csv') if isfile(join('link_csv/tree_link_csv', f))]
 
 #Set index of csv that send into app
-index = 12
-write_log('')
+index = 15
+write_log('\n')
 write_log('Index: {}'.format(index))
 
 #Call app function
