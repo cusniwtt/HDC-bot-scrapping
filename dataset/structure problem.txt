@@ -1,0 +1,8 @@
+access_ต่างด้าว
+1. ประเภทของประชากรต่างด้าวที่มารับบริการผู้ป่วยนอก|https://hdcservice.moph.go.th/hdc/reports/report.php?source=formated/alien.php&cat_id=f05dcee246d3d761e4637d611d773cb6&id=4ec50fd9c76213efa132c84bd4a0f3a1
+2. ประเภทของประชากรต่างด้าวที่มารับบริการผู้ป่วยใน|https://hdcservice.moph.go.th/hdc/reports/report.php?source=formated/alien.php&cat_id=f05dcee246d3d761e4637d611d773cb6&id=431fd23085bee30c6ecb90e25dced5ea
+7. ประชากรต่างด้าว เจ็บป่วยด้วยโรค 5 อันดับแรก ผู้ป่วยนอก|https://hdcservice.moph.go.th/hdc/reports/report.php?source=alien/alien_opd5dx.php&cat_id=f05dcee246d3d761e4637d611d773cb6&id=b8526e2a855ddac938cd18f93dab2a90
+8. ประชากรต่างด้าว เจ็บป่วยด้วยโรค 5 อันดับแรก ผู้ป่วยใน|https://hdcservice.moph.go.th/hdc/reports/report.php?source=alien/alien_ipd5dx.php&cat_id=f05dcee246d3d761e4637d611d773cb6&id=18e9aca786eac2d98dad5d7e5ecd529a
+
+info_ประชากร
+1. ปิรามิดประชากรจำแนกเพศ กลุ่มอายุ|https://hdcservice.moph.go.th/hdc/reports/report.php?source=populationpyramid.php&cat_id=ac4eed1bddb23d6130746d62d2538fd0&id=db4e8d42e1234a75bd03d430c31feb2f

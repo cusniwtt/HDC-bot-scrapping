@@ -41,7 +41,7 @@ def check_slash(name):
 	return name
 
 #Create BOT to click download button
-def bot(url):
+def bot(url, delay_time):
     driver = wd.Edge('edgedriver_win64\msedgedriver.exe')
     driver.get(url)
 
@@ -63,7 +63,7 @@ def bot(url):
         year_option.click()
         ok_btn = driver.find_element_by_xpath('//*[@id="btnOkey"]') #click OK to query
         ok_btn.click()
-        time.sleep(9)      #Wait for query
+        time.sleep(delay_time)      #Wait for query
 
         dl_btn = driver.find_element_by_xpath('//*[@id="save-icon"]/button')    #Click Download button
         dl_btn.click()
