@@ -49,7 +49,8 @@ csv_path = [f for f in listdir('link_csv/tree_link_csv') if isfile(join('link_cs
 
 #Set index of csv that send into app
 index = 12
-write_log('\nIndex: {}'.format(index))
+write_log('')
+write_log('Index: {}'.format(index))
 
 #Call app function
 app(csv_path[index])

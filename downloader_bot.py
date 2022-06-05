@@ -27,7 +27,7 @@ def rename_file(dir_path, name):
 
 #For create log file
 def write_log(name):
-    log = open('dataset\log.txt', 'a')
+    log = open('log\log.txt', 'a')
     log.write('{} \n'.format(name))
     log.close()
 
