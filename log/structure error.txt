@@ -12,5 +12,12 @@ defend_อนามัยแม่และเด็ก
 "2.4. การเฝ้าระวังอัตราการคลอดมีชีพในหญิงอายุ 15-19 ปี"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/formatg.php&cat_id=1ed90bc32310b503b7ca9b32af425ae5&id=eefd31ab993640a98206360a843fbe37
 "2.5. การเฝ้าระวังอัตราการคลอดมีชีพในหญิงอายุ 10-14 ปี"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/formatg.php&cat_id=1ed90bc32310b503b7ca9b32af425ae5&id=782a6749bd5608ecaf7ab67f0e3f3abd
 
+defend_อนามัยโรงเรียน
+"4.1. ร้อยละการคลอดบุตรของนักเรียนหญิงอายุน้อยกว่า 20 ปี "|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/formatg.php&cat_id=67f8b1657bc8c796274fb9b6ad5a701d&id=69191556575e931b12dae4a78616479d
+"4.2. ร้อยละของนักเรียนหญิงอายุน้อยกว่า 20 ปี ที่ตั้งครรภ์ ได้เรียนต่อในระบบ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/formatg.php&cat_id=67f8b1657bc8c796274fb9b6ad5a701d&id=2d9a8da43d30555b4336d91345576455
+"4.3. ร้อยละของนักเรียนหญิงอายุน้อยกว่า 20 ปี ที่คลอดบุตร ได้เรียนต่อในระบบ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/formatg.php&cat_id=67f8b1657bc8c796274fb9b6ad5a701d&id=65d786422623f450e35421e6e9d1e8be
+"6.3. การได้รับวัคซีนป้องกันโรคโควิด19 ในนักเรียน/นักศึกษาอายุ 12-17 ปี"|https://hdcservice.moph.go.th/hdc/covid/report_student.php?cat_id=67f8b1657bc8c796274fb9b6ad5a701d&id=96f6206e38e9a40d7a5fcc8094d5b553
+"6.4. การได้รับวัคซีนป้องกันโรคโควิด19 ในนักเรียน/นักศึกษาอายุ 5-11 ปี"|https://hdcservice.moph.go.th/hdc/covid/report_student1.php?cat_id=67f8b1657bc8c796274fb9b6ad5a701d&id=7619332fe108b05f26e7df440b23f5dd
+
 info_ประชากร
 1. ปิรามิดประชากรจำแนกเพศ กลุ่มอายุ|https://hdcservice.moph.go.th/hdc/reports/report.php?source=populationpyramid.php&cat_id=ac4eed1bddb23d6130746d62d2538fd0&id=db4e8d42e1234a75bd03d430c31feb2f
