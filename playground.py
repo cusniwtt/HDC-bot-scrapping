@@ -3,24 +3,16 @@ from downloader_bot import check_slash
 from downloader_bot import rename_file
 from downloader_bot import write_log
 
-import csv
-from bs4 import BeautifulSoup as bs
-import requests as rq
 import pandas as pd
-import numpy as np
-from os import listdir
-from os.path import isfile, join
-from selenium import webdriver as wd
-import time
-import os
+from win10toast import ToastNotifier as tn
 
-df = pd.read_csv('link_csv/tree_link_csv/defend_งานโภชนาการ.csv', sep='|')
-max = 35
-row = 5
+df = pd.read_csv('link_csv/tree_link_csv/defend_อนามัยแม่และเด็ก.csv', sep='|')
+max = 47
+row = 47
 
 name = df.iloc[row-1][0]
 url = df.iloc[row-1][1]
-save_dir = 'C:/Users/USER/Downloads/Dataset/defend_งานโภชนาการ'
+save_dir = 'C:/Users/USER/Downloads/Dataset/defend_อนามัยแม่และเด็ก'
 #Check slash and replace it with 'or'
 name = check_slash(name)
 #run bot to download file
@@ -31,3 +23,6 @@ rename_file(save_dir, name)
 write_log(name)
 print('{} Created Successfully'.format(name))
 print('from This URL: {}'.format(url))
+
+noti = tn()
+noti.show_toast('Download complete', name, duration=5)

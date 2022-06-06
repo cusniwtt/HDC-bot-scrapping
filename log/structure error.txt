@@ -1,0 +1,16 @@
+access_ต่างด้าว
+1. ประเภทของประชากรต่างด้าวที่มารับบริการผู้ป่วยนอก|https://hdcservice.moph.go.th/hdc/reports/report.php?source=formated/alien.php&cat_id=f05dcee246d3d761e4637d611d773cb6&id=4ec50fd9c76213efa132c84bd4a0f3a1
+2. ประเภทของประชากรต่างด้าวที่มารับบริการผู้ป่วยใน|https://hdcservice.moph.go.th/hdc/reports/report.php?source=formated/alien.php&cat_id=f05dcee246d3d761e4637d611d773cb6&id=431fd23085bee30c6ecb90e25dced5ea
+7. ประชากรต่างด้าว เจ็บป่วยด้วยโรค 5 อันดับแรก ผู้ป่วยนอก|https://hdcservice.moph.go.th/hdc/reports/report.php?source=alien/alien_opd5dx.php&cat_id=f05dcee246d3d761e4637d611d773cb6&id=b8526e2a855ddac938cd18f93dab2a90
+8. ประชากรต่างด้าว เจ็บป่วยด้วยโรค 5 อันดับแรก ผู้ป่วยใน|https://hdcservice.moph.go.th/hdc/reports/report.php?source=alien/alien_ipd5dx.php&cat_id=f05dcee246d3d761e4637d611d773cb6&id=18e9aca786eac2d98dad5d7e5ecd529a
+
+defend_ส่งเสริมและป้องกันปัญหาสุขภาพจิต
+"13.1. ร้อยละผู้ป่วยจิตเวชตามภูมิลำเนาที่ได้รับวัคซีนป้องกันโรค COVID-19 อย่างน้อย 3 เข็ม"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/formatg.php&cat_id=574437c29aff8d1709da55677abc4b03&id=f65f34f9f8eae331c9c7c1ed6fb4a765
+"13.2. ร้อยละผู้ป่วยจิตเวชที่ได้รับวัคซีนป้องกันโรค COVID-19 อย่างน้อย 3 เข็ม จำแนกตามรหัสกลุ่มโรค/โรค"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format2.php&cat_id=574437c29aff8d1709da55677abc4b03&id=754decbd5bd7153d236a218ea0de5770
+
+defend_อนามัยแม่และเด็ก
+"2.4. การเฝ้าระวังอัตราการคลอดมีชีพในหญิงอายุ 15-19 ปี"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/formatg.php&cat_id=1ed90bc32310b503b7ca9b32af425ae5&id=eefd31ab993640a98206360a843fbe37
+"2.5. การเฝ้าระวังอัตราการคลอดมีชีพในหญิงอายุ 10-14 ปี"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/formatg.php&cat_id=1ed90bc32310b503b7ca9b32af425ae5&id=782a6749bd5608ecaf7ab67f0e3f3abd
+
+info_ประชากร
+1. ปิรามิดประชากรจำแนกเพศ กลุ่มอายุ|https://hdcservice.moph.go.th/hdc/reports/report.php?source=populationpyramid.php&cat_id=ac4eed1bddb23d6130746d62d2538fd0&id=db4e8d42e1234a75bd03d430c31feb2f
