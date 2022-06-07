@@ -8,7 +8,7 @@ from win10toast import ToastNotifier as tn
 
 df = pd.read_csv('link_csv/tree_link_csv/ministry_ ปี 2560.csv', sep='|')
 max = 35
-row = 8
+row = 26
 
 name = df.iloc[row-1][0]
 url = df.iloc[row-1][1]
