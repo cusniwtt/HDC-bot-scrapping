@@ -3,3 +3,11 @@ acess_เภสัชกรรม
 
 defend_อนามัยแม่และเด็ก
 "5.1. ผลการดำเนินการการคัดกรองพัฒนาการเด็กตามกลุ่มอายุ specialpp"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format1.php&cat_id=1ed90bc32310b503b7ca9b32af425ae5&id=2238b7879f442749bd1804032119e824
+
+info_ประชากร
+4. จำนวนประชากรทะเบียนราษฏร์ ย้อนหลัง 3 ปี|https://hdcservice.moph.go.th/hdc/reports/report.php?source=formated/midyearpop.php&cat_id=ac4eed1bddb23d6130746d62d2538fd0&id=09cf07164c9b7cfbfe724bee8c6b20c3
+5. ประชากรทะเบียนราษฎร์ จำแนกรายอายุและเพศ|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pop/pop_sex_agemoph.php&cat_id=ac4eed1bddb23d6130746d62d2538fd0&id=f83d0cd8b830706dab4cd3cb09afa584
+
+info_โรงเรียนและนักเรียน (No data available)
+2. จำนวนนักเรียน จำแนกตามโรงเรียน/สถานศึกษา ประเภท และสังกัด|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format2.php&cat_id=dc6012062b7e25f464da5f82f756e4ce&id=3b7ed7f476af9f437f3aa9a581f5fe92
+3. จำนวนนักเรียนสำหรับงานอนามัยโรงเรียน รายชั้นปี จำแนก ชาย/หญิง (ตามรหัสโรงเรียน)|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format2.php&cat_id=dc6012062b7e25f464da5f82f756e4ce&id=69c2591452ea81cf48c00752905a6fde
