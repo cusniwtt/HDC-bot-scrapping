@@ -6,13 +6,13 @@ from downloader_bot import write_log
 import pandas as pd
 from win10toast import ToastNotifier as tn
 
-df = pd.read_csv('link_csv/tree_link_csv/ministry_ ปี 2560.csv', sep='|')
-max = 35
-row = 26
+df = pd.read_csv('link_csv/tree_link_csv/ministry_ ปี 2562.csv', sep='|')
+max = 22
+row = 9
 
 name = df.iloc[row-1][0]
 url = df.iloc[row-1][1]
-save_dir = 'C:/Users/USER/Downloads/Dataset/ministry_ ปี 2560'
+save_dir = 'C:/Users/USER/Downloads/Dataset/ministry_ ปี 2562'
 #Check slash and replace it with 'or'
 name = check_slash(name)
 #run bot to download file

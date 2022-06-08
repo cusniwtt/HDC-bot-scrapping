@@ -11,3 +11,6 @@ info_ประชากร
 info_โรงเรียนและนักเรียน (No data available)
 2. จำนวนนักเรียน จำแนกตามโรงเรียน/สถานศึกษา ประเภท และสังกัด|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format2.php&cat_id=dc6012062b7e25f464da5f82f756e4ce&id=3b7ed7f476af9f437f3aa9a581f5fe92
 3. จำนวนนักเรียนสำหรับงานอนามัยโรงเรียน รายชั้นปี จำแนก ชาย/หญิง (ตามรหัสโรงเรียน)|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format2.php&cat_id=dc6012062b7e25f464da5f82f756e4ce&id=69c2591452ea81cf48c00752905a6fde
+
+ministry_ ปี 2560
+"51. OHSP ร้อยละอำเภอที่จัดบริการสุขภาพช่องปากใน รพ.สต./ศสม. ที่มีคุณภาพตามเกณฑ์"|"https://hdcservice.moph.go.th/hdc/reports/report_kpi.php?flag_kpi_level=1&flag_kpi_year=2017&source=pformated/format1.php&id=9aa3ec7a10773b04ce35800578f75852"

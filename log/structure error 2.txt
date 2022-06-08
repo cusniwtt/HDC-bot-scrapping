@@ -25,3 +25,7 @@ ministry_ปี 2560
 "71. ระดับความสาเร็จในการวางแผนกาลังคนด้านสุขภาพของเขตสุขภาพ"|"https://hdcservice.moph.go.th/hdc/reports/report_kpi.php?flag_kpi_level=1&flag_kpi_year=2017&source=iformated/format1.php&id=51b0fa6211fb11982a841bc1a252d0f5"
 "77. ร้อยละของอาเภอที่มีบุคลากรสาธารณสุขเพียงพอ"|"https://hdcservice.moph.go.th/hdc/reports/report_kpi.php?flag_kpi_level=1&flag_kpi_year=2017&source=iformated/format1.php&id=0c82a7318727e0fa00468447472d00fc"
 "78. ร้อยละของครอบครัวที่มีศักยภาพในการดูแลสุขภาพตนเองได้ตามเกณฑ์ที่กาหนด"|"https://hdcservice.moph.go.th/hdc/reports/report_kpi.php?flag_kpi_level=1&flag_kpi_year=2017&source=iformated/format1.php&id=9380e6dc1081b2597521350173ee38cb"
+
+ministry_ ปี 2561
+"9. การเฝ้าระวังอัตราการคลอดมีชีพในหญิงอายุ 15-19 ปี"|"https://hdcservice.moph.go.th/hdc/reports/report_kpi.php?flag_kpi_level=1&flag_kpi_year=2018&source=pformated/formatg.php&id=eefd31ab993640a98206360a843fbe37"
+"34. ร้อยละของผู้ป่วยโรคซึมเศร้าเข้าถึงบริการ"|"https://hdcservice.moph.go.th/hdc/reports/report_kpi.php?flag_kpi_level=1&flag_kpi_year=2018&source=pformated/formatg.php&id=706b605192b49d385ba044350af9c46a"
