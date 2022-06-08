@@ -3,6 +3,7 @@ from os.path import isfile, join
 from selenium import webdriver as wd
 import time
 import os
+import shutil
 import codecs
 
 #Defind function to rename file csv
@@ -20,11 +21,11 @@ def rename_file(dir_path, name):
 
     for i in range(len(new)):
         #Create save path
-        save_name = str('/' + name + '__' + year[i] + '.csv')
+        save_name = str('/' + name + '__' + year[i] + '.xls')
         save_path = dir_path + save_name
 
         #Save file to dataset folder
-        os.rename(new[i], save_path)
+        shutil.move(new[i], save_path)
 
 #For create log file
 def write_log(name):

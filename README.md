@@ -34,4 +34,8 @@ For install [win10toast](https://pypi.org/project/win10toast/) to notify "Your d
 ```bash
 pip install win10toast
 ```
+For install [aspose-cell](https://pypi.org/project/aspose-cells/) to convert from xls to xlsx
+```
+pip install aspose-cells
+```
 ---
