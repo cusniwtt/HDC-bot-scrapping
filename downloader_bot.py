@@ -3,6 +3,7 @@ from os.path import isfile, join
 from selenium import webdriver as wd
 import time
 import os
+import codecs
 
 #Defind function to rename file csv
 def rename_file(dir_path, name):
@@ -27,7 +28,7 @@ def rename_file(dir_path, name):
 
 #For create log file
 def write_log(name):
-    log = open('log\log.txt', 'a')
+    log = codecs.open('log\log.txt', 'a', 'utf-8-sig')
     log.write('{} \n'.format(name))
     log.close()
 
