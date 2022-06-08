@@ -28,7 +28,7 @@ def rename_file(dir_path, name):
 
 #For create log file
 def write_log(name):
-    log = codecs.open('log\log.txt', 'a', 'utf-8-sig')
+    log = codecs.open('log\download_log.txt', 'a', 'utf-8-sig')
     log.write('{} \n'.format(name))
     log.close()
 
@@ -69,6 +69,6 @@ def bot(url, delay_time):
         dl_btn = driver.find_element_by_xpath('//*[@id="save-icon"]/button')    #Click Download button
         dl_btn.click()
 
-        csv_btn = driver.find_element_by_xpath('//*[@id="save-icon"]/ul/li[1]/a')   #Download csv file
+        csv_btn = driver.find_element_by_xpath('//*[@id="save-icon"]/ul/li[4]/a')   #Download xlxs file
         csv_btn.click()
         time.sleep(1)

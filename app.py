@@ -48,15 +48,15 @@ def app(path):
 csv_path = [f for f in listdir('link_csv/tree_link_csv') if isfile(join('link_csv/tree_link_csv', f))]
 
 #Set index of csv that send into app
-index = 29
+index = 30
 write_log('\n')
 write_log('Index: {}'.format(index))
 
 #Call app function
-app(csv_path[index])
+app(csv_path[index-1])
 
 #Log Statement & Notification
-first_row = 'Number of csv sub file: {} '.format(index + 1)
+first_row = 'Number of csv sub file: {} '.format(index)
 last_row = 'of {}'.format(len(csv_path))
 noti = tn()
-noti.show_toast(csv_path[index] + 'Download Complete!!!', first_row + last_row, duration=5)
+noti.show_toast(csv_path[index-1] + 'Download Complete!!!', first_row + last_row, duration=5)
