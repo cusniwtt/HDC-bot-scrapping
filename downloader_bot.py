@@ -21,7 +21,7 @@ def rename_file(dir_path, name):
 
     for i in range(len(new)):
         #Create save path
-        save_name = str('/' + name + '__' + year[i] + '.xls')
+        save_name = str('/' + name + '__' + year[i] + '.csv')
         save_path = dir_path + save_name
 
         #Save file to dataset folder
@@ -70,6 +70,6 @@ def bot(url, delay_time):
         dl_btn = driver.find_element_by_xpath('//*[@id="save-icon"]/button')    #Click Download button
         dl_btn.click()
 
-        csv_btn = driver.find_element_by_xpath('//*[@id="save-icon"]/ul/li[4]/a')   #Download xlxs file
+        csv_btn = driver.find_element_by_xpath('//*[@id="save-icon"]/ul/li[1]/a')   #Download csv file
         csv_btn.click()
         time.sleep(1)
