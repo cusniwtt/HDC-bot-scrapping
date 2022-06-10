@@ -29,3 +29,11 @@ ministry_ปี 2560
 ministry_ ปี 2561
 "9. การเฝ้าระวังอัตราการคลอดมีชีพในหญิงอายุ 15-19 ปี"|"https://hdcservice.moph.go.th/hdc/reports/report_kpi.php?flag_kpi_level=1&flag_kpi_year=2018&source=pformated/formatg.php&id=eefd31ab993640a98206360a843fbe37"
 "34. ร้อยละของผู้ป่วยโรคซึมเศร้าเข้าถึงบริการ"|"https://hdcservice.moph.go.th/hdc/reports/report_kpi.php?flag_kpi_level=1&flag_kpi_year=2018&source=pformated/formatg.php&id=706b605192b49d385ba044350af9c46a"
+
+ministry_ ปี 2562
+"6. การเฝ้าระวังอัตราการคลอดมีชีพในหญิงอายุ 15-19 ปี"|"https://hdcservice.moph.go.th/hdc/reports/report_kpi.php?flag_kpi_level=1&flag_kpi_year=2019&source=pformated/formatg.php&id=eefd31ab993640a98206360a843fbe37"
+"23. ร้อยละของผู้ป่วยโรคซึมเศร้าเข้าถึงบริการ"|"https://hdcservice.moph.go.th/hdc/reports/report_kpi.php?flag_kpi_level=1&flag_kpi_year=2019&source=pformated/formatg.php&id=706b605192b49d385ba044350af9c46a"
+
+ministry_ ปี 2563
+"6. การเฝ้าระวังอัตราการคลอดมีชีพในหญิงอายุ 15-19 ปี"|"https://hdcservice.moph.go.th/hdc/reports/report_kpi.php?flag_kpi_level=1&flag_kpi_year=2020&source=pformated/formatg.php&id=eefd31ab993640a98206360a843fbe37"
+"32. ร้อยละของผู้ป่วยโรคซึมเศร้าเข้าถึงบริการ"|"https://hdcservice.moph.go.th/hdc/reports/report_kpi.php?flag_kpi_level=1&flag_kpi_year=2020&source=pformated/formatg.php&id=706b605192b49d385ba044350af9c46a"
