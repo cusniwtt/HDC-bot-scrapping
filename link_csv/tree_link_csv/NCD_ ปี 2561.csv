@@ -1,11 +1,11 @@
 ﻿name|url
 "1. ร้อยละผู้ป่วยเบาหวานที่ขึ้นทะเบียนและได้รับการตรวจติดตามและรักษาที่เหมาะสม"|"https://hdcservice.moph.go.th/hdc/reports/report_kpi.php?flag_kpi_level=9&flag_kpi_year=2018&source=pformated/format1.php&id=e9fb648fe9f1858878714a410222eef1"
 "2. ร้อยละผู้ป่วยโรคเบาหวานที่ควบคุมระดับน้ำตาลได้ดี"|"https://hdcservice.moph.go.th/hdc/reports/report_kpi.php?flag_kpi_level=9&flag_kpi_year=2018&source=pformated/format1.php&id=137a726340e4dfde7bbbc5d8aeee3ac3"
-"3. อัตราผู้ป่วยเบาหวานที่ได้รับการตรวจไขมัน LDL และมีค่า LDL < 100 mg/dl"|"https://hdcservice.moph.go.th/hdc/reports/report_kpi.php?flag_kpi_level=9&flag_kpi_year=2018&source=pformated/format1.php&id=248b7569c486ae7a01551bcb20bb15cf"
+"3. อัตราผู้ป่วยเบาหวานที่ได้รับการตรวจไขมัน LDL และมีค่า LDL น้อยกว่า 100 mg/dl"|"https://hdcservice.moph.go.th/hdc/reports/report_kpi.php?flag_kpi_level=9&flag_kpi_year=2018&source=pformated/format1.php&id=248b7569c486ae7a01551bcb20bb15cf"
 "4. ร้อยละของผู้ป่วยเบาหวานที่ได้รับการตรวจภาวะแทรกซ้อนทางตา"|"https://hdcservice.moph.go.th/hdc/reports/report_kpi.php?flag_kpi_level=9&flag_kpi_year=2018&source=pformated/format1.php&id=d0726b6e82496162f596395050cb6c8c"
 "5. ร้อยละของผู้ป่วยเบาหวานที่ได้รับการตรวจภาวะแทรกซ้อนทางเท้า"|"https://hdcservice.moph.go.th/hdc/reports/report_kpi.php?flag_kpi_level=9&flag_kpi_year=2018&source=pformated/format1.php&id=1932e7f6482a5e1e3c20b51927ef4adc"
 "6. ร้อยละของผู้ป่วยเบาหวานที่มีความดันโลหิตควบคุมได้ตามเกณฑ์"|"https://hdcservice.moph.go.th/hdc/reports/report_kpi.php?flag_kpi_level=9&flag_kpi_year=2018&source=pformated/format1.php&id=ac9019f14a00b66984dd9efc3afc06a6"
-"7. ร้อยละผู้ป่วยเบาหวานที่มีภาวะอ้วนลงพุง [รอบเอวมากกว่า (ส่วนสูง (ซม.)/2)]"|"https://hdcservice.moph.go.th/hdc/reports/report_kpi.php?flag_kpi_level=9&flag_kpi_year=2018&source=pformated/format1.php&id=fd0779ee615c2e4adcb73187a2cbc328"
+"7. ร้อยละผู้ป่วยเบาหวานที่มีภาวะอ้วนลงพุง [รอบเอวมากกว่า (ส่วนสูง (ซม.) หาร 2)]"|"https://hdcservice.moph.go.th/hdc/reports/report_kpi.php?flag_kpi_level=9&flag_kpi_year=2018&source=pformated/format1.php&id=fd0779ee615c2e4adcb73187a2cbc328"
 "8. ร้อยละของการเกิดภาวะแทรกซ้อนเฉียบพลันในผู้ป่วยเบาหวาน"|"https://hdcservice.moph.go.th/hdc/reports/report_kpi.php?flag_kpi_level=9&flag_kpi_year=2018&source=pformated/format1.php&id=b06544333648315e83c83445a62dd94e"
 "9. ร้อยละของประชากรกลุ่มเสี่ยงเบาหวานในพื้นที่รับผิดชอบของปีที่ผ่านมาได้รับการตรวจน้ำตาลซ้ำ"|"https://hdcservice.moph.go.th/hdc/reports/report_kpi.php?flag_kpi_level=9&flag_kpi_year=2018&source=pformated/format1.php&id=cc7ca5d68ea315208e2039d7c64792ce"
 "10. ร้อยละของผู้ป่วยเบาหวานรายใหม่ลดลง"|"https://hdcservice.moph.go.th/hdc/reports/report_kpi.php?flag_kpi_level=9&flag_kpi_year=2018&source=pformated/format1.php&id=bf3fc18d99d7366fc8ee1978835a6865"

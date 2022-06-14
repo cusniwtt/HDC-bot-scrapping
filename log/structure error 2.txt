@@ -46,3 +46,5 @@ ministry_ ปี 2564
 
 ministry_ ปี 2565
 "5. การเฝ้าระวังอัตราการคลอดมีชีพในหญิงอายุ 15-19 ปี"|"https://hdcservice.moph.go.th/hdc/reports/report_kpi.php?flag_kpi_level=1&flag_kpi_year=2022&source=pformated/formatg.php&id=eefd31ab993640a98206360a843fbe37"
+"34. ร้อยละของผู้ป่วยโรคซึมเศร้าเข้าถึงบริการ"|"https://hdcservice.moph.go.th/hdc/reports/report_kpi.php?flag_kpi_level=1&flag_kpi_year=2022&source=pformated/formatg.php&id=706b605192b49d385ba044350af9c46a"
+"35. อัตราการฆ่าตัวตายสำเร็จ"|"https://hdcservice.moph.go.th/hdc/reports/report_kpi.php?flag_kpi_level=1&flag_kpi_year=2022&source=pformated/formatg.php&id=f98aa818686df571817c33e0168966a2"
