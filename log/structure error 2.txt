@@ -48,3 +48,17 @@ ministry_ ปี 2565
 "5. การเฝ้าระวังอัตราการคลอดมีชีพในหญิงอายุ 15-19 ปี"|"https://hdcservice.moph.go.th/hdc/reports/report_kpi.php?flag_kpi_level=1&flag_kpi_year=2022&source=pformated/formatg.php&id=eefd31ab993640a98206360a843fbe37"
 "34. ร้อยละของผู้ป่วยโรคซึมเศร้าเข้าถึงบริการ"|"https://hdcservice.moph.go.th/hdc/reports/report_kpi.php?flag_kpi_level=1&flag_kpi_year=2022&source=pformated/formatg.php&id=706b605192b49d385ba044350af9c46a"
 "35. อัตราการฆ่าตัวตายสำเร็จ"|"https://hdcservice.moph.go.th/hdc/reports/report_kpi.php?flag_kpi_level=1&flag_kpi_year=2022&source=pformated/formatg.php&id=f98aa818686df571817c33e0168966a2"
+
+servplan_ข้อมูลเพื่อตอบสนอง Service Plan สาขามะเร็ง
+7. ประชากรกลุ่มเป้าหมายได้รับการคัดกรองมะเร็งลำไส้ใหญ่และลำไส้ตรง (coverage ตามโครงการคัดกรอง service plan สาขามะเร็ง) |https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/formatg.php&cat_id=59acae7a68f02c8e2c0cb88dfc6df3b3&id=c9368ec68b5aae4446b802ef018796c7
+10. รายงานผลการคัดกรองมะเร็งปากมดลูก ด้วยวิธี HPV DNA Test สปสช.|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/formatg.php&cat_id=59acae7a68f02c8e2c0cb88dfc6df3b3&id=7e1e06b69c142d489ef8155eb291b5ed
+
+servplan_ข้อมูลเพื่อตอบสนอง Service Plan สาขาสุขภาพจิต
+"1. ร้อยละของผู้ป่วยโรคซึมเศร้าเข้าถึงบริการ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/formatg.php&cat_id=22710ed5db1ed6b12aab540a7b0753b3&id=706b605192b49d385ba044350af9c46a
+"2. ร้อยละของผู้ป่วยโรคจิตเภทเข้าถึงบริการ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/formatg.php&cat_id=22710ed5db1ed6b12aab540a7b0753b3&id=7b13c6fcfb0be636fc5cce071e49a71a
+"3. ร้อยละของผู้ป่วยโรคสมาธิสั้นเข้าถึงบริการ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/formatg.php&cat_id=22710ed5db1ed6b12aab540a7b0753b3&id=e0678b73197151b3f181edcb0ee76b97
+"4. ร้อยละของผู้ป่วยโรคออทิสติกเข้าถึงบริการ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/formatg.php&cat_id=22710ed5db1ed6b12aab540a7b0753b3&id=e959959205e37be069751dbbe9937802
+"11. ร้อยละของผู้ป่วยโรคติดสุราในพื้นที่เข้าถึงบริการ ตามมาตรฐานเพิ่มขึ้น"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/formatg.php&cat_id=22710ed5db1ed6b12aab540a7b0753b3&id=c053cbe922cb2b0b8aa5ab139c5c7494
+"12. ร้อยละของผู้ทำร้ายตนเองเข้าถึงบริการ 15 ปีขึ้นไป"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/formatg.php&cat_id=22710ed5db1ed6b12aab540a7b0753b3&id=009b430cc231e1b1635963a899eca673
+"13. อัตราการฆ่าตัวตายสำเร็จ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/formatg.php&cat_id=22710ed5db1ed6b12aab540a7b0753b3&id=f98aa818686df571817c33e0168966a2
+"21.1. ร้อยละของผู้ป่วยที่มีความผิดปกติทางจิตและพฤติกรรมที่เกิดจากการใช้สารออกกฤทธิ์ต่อจิตประสาท จำแนกตามภูมิลำเนา"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/formatg.php&cat_id=22710ed5db1ed6b12aab540a7b0753b3&id=9cf1a79f90362e5d168187a784d0eea3
