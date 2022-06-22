@@ -6,10 +6,10 @@ from downloader_bot import write_log
 import pandas as pd
 from win10toast import ToastNotifier as tn
 
-df = pd.read_csv('link_csv/tree_link_csv/servplan_ข้อมูลเพื่อตอบสนอง Service Plan สาขาสุขภาพช่องปาก.csv', sep='|')
-save_dir = 'C:/Users/USER/Downloads/Dataset/servplan_ข้อมูลเพื่อตอบสนอง Service Plan สาขาสุขภาพช่องปาก'
-max = 60
-row = 56
+df = pd.read_csv('link_csv/tree_link_csv/servplan_ข้อมูลเพื่อตอบสนอง Service Plan สาขาโรคไม่ติดต่อ (NCD DM,HT,CVD).csv', sep='|')
+save_dir = 'C:/Users/USER/Downloads/Dataset/servplan_ข้อมูลเพื่อตอบสนอง Service Plan สาขาโรคไม่ติดต่อ (NCD DM,HT,CVD)'
+max = 43
+row = 42
 
 while row <= max:
     name = df.iloc[row-1][0]

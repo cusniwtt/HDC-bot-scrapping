@@ -62,3 +62,6 @@ servplan_ข้อมูลเพื่อตอบสนอง Service Plan ส
 "12. ร้อยละของผู้ทำร้ายตนเองเข้าถึงบริการ 15 ปีขึ้นไป"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/formatg.php&cat_id=22710ed5db1ed6b12aab540a7b0753b3&id=009b430cc231e1b1635963a899eca673
 "13. อัตราการฆ่าตัวตายสำเร็จ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/formatg.php&cat_id=22710ed5db1ed6b12aab540a7b0753b3&id=f98aa818686df571817c33e0168966a2
 "21.1. ร้อยละของผู้ป่วยที่มีความผิดปกติทางจิตและพฤติกรรมที่เกิดจากการใช้สารออกกฤทธิ์ต่อจิตประสาท จำแนกตามภูมิลำเนา"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/formatg.php&cat_id=22710ed5db1ed6b12aab540a7b0753b3&id=9cf1a79f90362e5d168187a784d0eea3
+
+servplan_ข้อมูลเพื่อตอบสนอง Service Plan สาขาแม่และเด็ก
+"1.2. ร้อยละของผู้ป่วยที่ได้รับการผ่าตัดคลอดในโรงพยาบาลระดับ M2"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/formatg.php&cat_id=3dc2d92087cdc5b585eb8c0904691399&id=2ccc38fd75fbcf1037eacebaf991f165
