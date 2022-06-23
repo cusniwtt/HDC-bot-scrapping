@@ -14,3 +14,7 @@ info_โรงเรียนและนักเรียน (No data availabl
 
 ministry_ ปี 2560
 "51. OHSP ร้อยละอำเภอที่จัดบริการสุขภาพช่องปากใน รพ.สต./ศสม. ที่มีคุณภาพตามเกณฑ์"|"https://hdcservice.moph.go.th/hdc/reports/report_kpi.php?flag_kpi_level=1&flag_kpi_year=2017&source=pformated/format1.php&id=9aa3ec7a10773b04ce35800578f75852"
+
+state_สาเหตุการป่วยหรือตาย
+"1. สาเหตุการป่วยของผู้ป่วยนอกตามกลุ่มโรค10 อันดับแรก"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format2.php&cat_id=491672679818600345dc1833920051b2&id=65fdb98bca9c344737fcb1fd4b64e9e5
+"2. สาเหตุการป่วยของผู้ป่วยนอกตามกลุ่มโรค10 อันดับแรก ในกลุ่มอายุน้อยกว่าเท่ากับ 15 ปี"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format2.php&cat_id=491672679818600345dc1833920051b2&id=958df49d2e1975eafa7f0a8d9bb7663f

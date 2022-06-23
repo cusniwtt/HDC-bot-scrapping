@@ -48,7 +48,7 @@ def app(path):
 csv_path = [f for f in listdir('link_csv/tree_link_csv') if isfile(join('link_csv/tree_link_csv', f))]
 
 #Set index of csv that send into app
-index = 59 #Run 59 first
+index = 62
 write_log('\n')
 write_log('Index: {}'.format(index))
 
