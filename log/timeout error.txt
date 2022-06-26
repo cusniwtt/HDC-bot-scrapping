@@ -18,3 +18,6 @@ ministry_ ปี 2560
 state_สาเหตุการป่วยหรือตาย
 "1. สาเหตุการป่วยของผู้ป่วยนอกตามกลุ่มโรค10 อันดับแรก"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format2.php&cat_id=491672679818600345dc1833920051b2&id=65fdb98bca9c344737fcb1fd4b64e9e5
 "2. สาเหตุการป่วยของผู้ป่วยนอกตามกลุ่มโรค10 อันดับแรก ในกลุ่มอายุน้อยกว่าเท่ากับ 15 ปี"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=pformated/format2.php&cat_id=491672679818600345dc1833920051b2&id=958df49d2e1975eafa7f0a8d9bb7663f
+
+state_โรคจากการประกอบอาชีพและสิ่งแวดล้อม
+"8.4. จำนวนผู้บาดเจ็บจากการทำงาน จำแนกรายอาชีพ"|https://hdcservice.moph.go.th/hdc/reports/report.php?source=envocc/format3.php&cat_id=f16421e617aed29602f9f09d951cce68&id=04af2fc4613510bd9253a58658093a2b

@@ -8,8 +8,8 @@ from win10toast import ToastNotifier as tn
 
 df = pd.read_csv('link_csv/tree_link_csv/state_โรคจากการประกอบอาชีพและสิ่งแวดล้อม.csv', sep='|')
 save_dir = 'C:/Users/USER/Downloads/Dataset/state_โรคจากการประกอบอาชีพและสิ่งแวดล้อม'
-max = 70
-row = 12    #Start here 12
+max = 69
+row = 40    #Start here 12
 
 while row <= max:
     name = df.iloc[row-1][0]
@@ -18,7 +18,7 @@ while row <= max:
     #Check slash and replace it with 'or'
     name = check_slash(name)
     #run bot to download file
-    bot(url, 10)
+    bot(url, 15)
     #rename file csv that bot download at last
     rename_file(save_dir, name)
     #Create log of file that bot download is complete
