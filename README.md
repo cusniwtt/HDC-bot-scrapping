@@ -50,7 +50,7 @@ The parameter is:
    1. This code will use `BeautifulSoup` to find all `'a'` and add it to list.
    2. Use `pandas` to create dataframe from list that we create before.
    3. Use `pandas` to create .csv from dataframe name **'All_link.csv'**
-2. Run **`fix_csv`** to split link into seperate .csv file by category.
+2. Run **`fix_csv.py`** to split link into seperate .csv file by category.
 3. Run **`pull_list_group_link.py`** to get all path for downloading. This do same thing that **`pull_link.py`** do but different level.
 4. Run **`app.py`** to call bot function from `downloader_bot.py` to download. This app need index of rows that contain path of download.
    * Function `bot` has 2 input. First is url. Second is delay time.(default = 10s) You can change delay time if you feel slow or take time. But i recommend default is best.
