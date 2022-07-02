@@ -1,10 +1,6 @@
-import encodings
 import pandas as pd
-import numpy as np
-import statistics as stat
 import csv
 from glob import glob
-from tqdm import tqdm
 import os
 
 def fix_dimension(filepath):
