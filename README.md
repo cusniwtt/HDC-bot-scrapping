@@ -1,7 +1,5 @@
 # HDC-bot-scrapping
 Bot to scrap csv file in all category in https://hdcservice.moph.go.th/hdc/main/index.php </br></br>
-For download dataset(ReLearning user): [HDC Dataset](https://thainhf.sharepoint.com/:f:/s/relearning/EgAN-vEOKhpDiiGdq9dUMScBcMOWo1JUwJ88YWbbv_Fyrg?e=fVGfCZ) </br></br>
-If you are not in ReLearning. You can request to download at [it-support@relearninig.tech]
 
 ## Prerequisite
 1. **Microsoft Edge Version 102.0.1245.33 (Official build) (64-bit)** or EdgeWebDriver in same version in your computer. Because I use Microsoft Edge and in this repo give you EdgeWebDriver. If you use chrome or firefox etc.. You can download WebDriver same as your web browser </br>
